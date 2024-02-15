@@ -1,0 +1,660 @@
+﻿Geom;INTERSECTION;URL
+"{""coordinates"": [-123.215211467428, 49.2639242035281], ""type"": ""Point""}";BLANCA ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#020670
+"{""coordinates"": [-123.199467652982, 49.268855855787], ""type"": ""Point""}";NW MARINE DRIVE AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#030640
+"{""coordinates"": [-123.185566322964, 49.2722682187729], ""type"": ""Point""}";ALMA ST AND POINT GREY ROAD;https://app.vancouver.ca/vanmapmtc_net/#040630
+"{""coordinates"": [-123.185856787137, 49.2643642594489], ""type"": ""Point""}";ALMA ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#040650
+"{""coordinates"": [-123.185339038674, 49.2347662583104], ""type"": ""Point""}";DUNBAR ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#040750
+"{""coordinates"": [-123.185434194405, 49.2306467404517], ""type"": ""Point""}";DUNBAR ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#040830
+"{""coordinates"": [-123.184016013894, 49.2579127746242], ""type"": ""Point""}";DUNBAR ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#041690
+"{""coordinates"": [-123.178076880839, 49.2578171589135], ""type"": ""Point""}";BLENHEIM ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#050690
+"{""coordinates"": [-123.178659121451, 49.242346200418], ""type"": ""Point""}";BLENHEIM ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#050730
+"{""coordinates"": [-123.178731666949, 49.2301481182812], ""type"": ""Point""}";BLENHEIM ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#050830
+"{""coordinates"": [-123.175910539276, 49.2642049121412], ""type"": ""Point""}";TRUTCH ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#053650
+"{""coordinates"": [-123.172087664044, 49.2500088670429], ""type"": ""Point""}";QUESNEL DRIVE AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#060710
+"{""coordinates"": [-123.172073758969, 49.2632635246533], ""type"": ""Point""}";CARNARVON ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#061670
+"{""coordinates"": [-123.168207540347, 49.2714216378512], ""type"": ""Point""}";MACDONALD ST AND POINT GREY ROAD;https://app.vancouver.ca/vanmapmtc_net/#070630
+"{""coordinates"": [-123.168312499747, 49.268368020565], ""type"": ""Point""}";MACDONALD ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#070640
+"{""coordinates"": [-123.168174244326, 49.264070415283], ""type"": ""Point""}";MACDONALD ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#070650
+"{""coordinates"": [-123.168128771331, 49.2622783764467], ""type"": ""Point""}";MACDONALD ST AND KITSILANO DIVERSION;https://app.vancouver.ca/vanmapmtc_net/#070670
+"{""coordinates"": [-123.167880280354, 49.248088207863], ""type"": ""Point""}";MACDONALD ST AND PUGET DRIVE;https://app.vancouver.ca/vanmapmtc_net/#070710
+"{""coordinates"": [-123.164773308034, 49.2611888692219], ""type"": ""Point""}";TRAFALGAR ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#073670
+"{""coordinates"": [-123.152927548017, 49.263828567233], ""type"": ""Point""}";ARBUTUS ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#090650
+"{""coordinates"": [-123.153343461514, 49.2452031912037], ""type"": ""Point""}";ARBUTUS ST AND VALLEY DRIVE;https://app.vancouver.ca/vanmapmtc_net/#090722
+"{""coordinates"": [-123.153459634247, 49.242100198941], ""type"": ""Point""}";ARBUTUS ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#090730
+"{""coordinates"": [-123.15515213722, 49.2271583096935], ""type"": ""Point""}";WEST BOULEVARD AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#090790
+"{""coordinates"": [-123.148484634082, 49.2132769185798], ""type"": ""Point""}";ANGUS DRIVE AND W 64TH AV;https://app.vancouver.ca/vanmapmtc_net/#090823
+"{""coordinates"": [-123.148239503921, 49.2090182809583], ""type"": ""Point""}";ANGUS DRIVE AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#090830
+"{""coordinates"": [-123.147802735762, 49.2724628093381], ""type"": ""Point""}";CYPRESS ST AND CORNWALL AV;https://app.vancouver.ca/vanmapmtc_net/#097630
+"{""coordinates"": [-123.147966636751, 49.2680536328042], ""type"": ""Point""}";CYPRESS ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#097640
+"{""coordinates"": [-123.14936502531, 49.2307628899848], ""type"": ""Point""}";CYPRESS ST AND W 45TH AV;https://app.vancouver.ca/vanmapmtc_net/#097758
+"{""coordinates"": [-123.13374007094, 49.2925946723086], ""type"": ""Point""}";DENMAN ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#110600
+"{""coordinates"": [-123.134371606614, 49.292180403978], ""type"": ""Point""}";DENMAN ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#110601
+"{""coordinates"": [-123.138621291478, 49.289365435885], ""type"": ""Point""}";DENMAN ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#110606
+"{""coordinates"": [-123.141809607965, 49.2872536194767], ""type"": ""Point""}";DENMAN ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#110612
+"{""coordinates"": [-123.142375266764, 49.2868790216579], ""type"": ""Point""}";DENMAN ST AND BEACH AV;https://app.vancouver.ca/vanmapmtc_net/#110617
+"{""coordinates"": [-123.102209901362, 49.2760606702897], ""type"": ""Point""}";QUEBEC ST AND PACIFIC BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#111001
+"{""coordinates"": [-123.128866203064, 49.2886175797536], ""type"": ""Point""}";BROUGHTON ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#116601
+"{""coordinates"": [-123.124910037044, 49.2894316374984], ""type"": ""Point""}";JERVIS ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#117590
+"{""coordinates"": [-123.138120118754, 49.2806896774503], ""type"": ""Point""}";JERVIS ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#117616
+"{""coordinates"": [-123.125916241752, 49.2867085005403], ""type"": ""Point""}";BUTE ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#118601
+"{""coordinates"": [-123.126979737144, 49.2860047424628], ""type"": ""Point""}";BUTE ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#118602
+"{""coordinates"": [-123.119139467411, 49.2883589806411], ""type"": ""Point""}";THURLOW ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#119589
+"{""coordinates"": [-123.119783775682, 49.2879333983664], ""type"": ""Point""}";THURLOW ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#119590
+"{""coordinates"": [-123.12312337392, 49.2857244914747], ""type"": ""Point""}";THURLOW ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#119600
+"{""coordinates"": [-123.125879717617, 49.2839009035458], ""type"": ""Point""}";THURLOW ST AND HARO ST;https://app.vancouver.ca/vanmapmtc_net/#119603
+"{""coordinates"": [-123.117023469563, 49.2871228036372], ""type"": ""Point""}";BURRARD ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#120590
+"{""coordinates"": [-123.117828709002, 49.2865884422055], ""type"": ""Point""}";BURRARD ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#120592
+"{""coordinates"": [-123.124403841864, 49.282240666813], ""type"": ""Point""}";BURRARD ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#120604
+"{""coordinates"": [-123.145499141585, 49.2706609954056], ""type"": ""Point""}";BURRARD ST AND W 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#120634
+"{""coordinates"": [-123.145645520735, 49.268026679519], ""type"": ""Point""}";BURRARD ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#120640
+"{""coordinates"": [-123.145724142, 49.2646253557773], ""type"": ""Point""}";BURRARD ST AND W 8TH AV;https://app.vancouver.ca/vanmapmtc_net/#120648
+"{""coordinates"": [-123.145863421114, 49.2608880059052], ""type"": ""Point""}";BURRARD ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#120670
+"{""coordinates"": [-123.123382954786, 49.2815805738358], ""type"": ""Point""}";HORNBY ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#124604
+"{""coordinates"": [-123.124974275975, 49.280528048379], ""type"": ""Point""}";HORNBY ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#124606
+"{""coordinates"": [-123.141019662936, 49.2636374273247], ""type"": ""Point""}";FIR ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#124650
+"{""coordinates"": [-123.143530428771, 49.2131963258347], ""type"": ""Point""}";ADERA ST AND W 64TH AV;https://app.vancouver.ca/vanmapmtc_net/#124823
+"{""coordinates"": [-123.113866596012, 49.2866168436393], ""type"": ""Point""}";HOWE ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#126589
+"{""coordinates"": [-123.119096643564, 49.2831367248562], ""type"": ""Point""}";HOWE ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#126600
+"{""coordinates"": [-123.122413886269, 49.2809529523008], ""type"": ""Point""}";HOWE ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#126604
+"{""coordinates"": [-123.124004711713, 49.2799000360597], ""type"": ""Point""}";HOWE ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#126606
+"{""coordinates"": [-123.12719015921, 49.2777920634803], ""type"": ""Point""}";HOWE ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#126612
+"{""coordinates"": [-123.128783710229, 49.2767374240916], ""type"": ""Point""}";HOWE ST AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#126614
+"{""coordinates"": [-123.130384071004, 49.2756782842115], ""type"": ""Point""}";HOWE ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#126616
+"{""coordinates"": [-123.112884485473, 49.2859566078562], ""type"": ""Point""}";GRANVILLE ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#130589
+"{""coordinates"": [-123.114847525495, 49.2846585985654], ""type"": ""Point""}";GRANVILLE ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#130592
+"{""coordinates"": [-123.116411709855, 49.2836239860524], ""type"": ""Point""}";GRANVILLE ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#130595
+"{""coordinates"": [-123.11812055027, 49.2824942805362], ""type"": ""Point""}";GRANVILLE ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#130600
+"{""coordinates"": [-123.123013825971, 49.2792581951786], ""type"": ""Point""}";GRANVILLE ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#130606
+"{""coordinates"": [-123.12460642589, 49.2782042241681], ""type"": ""Point""}";GRANVILLE ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#130608
+"{""coordinates"": [-123.126198547171, 49.2771505196264], ""type"": ""Point""}";GRANVILLE ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#130612
+"{""coordinates"": [-123.138802310813, 49.2570539196924], ""type"": ""Point""}";GRANVILLE ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#130690
+"{""coordinates"": [-123.139588020868, 49.2343303690082], ""type"": ""Point""}";GRANVILLE ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#130750
+"{""coordinates"": [-123.140368966013, 49.213143694614], ""type"": ""Point""}";GRANVILLE ST AND W 64TH AV;https://app.vancouver.ca/vanmapmtc_net/#130823
+"{""coordinates"": [-123.112875067861, 49.2846659699319], ""type"": ""Point""}";SEYMOUR ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#134590
+"{""coordinates"": [-123.113856074414, 49.2840173391527], ""type"": ""Point""}";SEYMOUR ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#134592
+"{""coordinates"": [-123.117128809456, 49.2818529133339], ""type"": ""Point""}";SEYMOUR ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#134600
+"{""coordinates"": [-123.118836416635, 49.2807227326024], ""type"": ""Point""}";SEYMOUR ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#134602
+"{""coordinates"": [-123.122021933179, 49.2786161133648], ""type"": ""Point""}";SEYMOUR ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#134606
+"{""coordinates"": [-123.128433751575, 49.274372650202], ""type"": ""Point""}";SEYMOUR ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#134616
+"{""coordinates"": [-123.111904172786, 49.2840376438003], ""type"": ""Point""}";RICHARDS ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#138590
+"{""coordinates"": [-123.114449278699, 49.28235470425], ""type"": ""Point""}";RICHARDS ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#138595
+"{""coordinates"": [-123.117866016374, 49.2800944634162], ""type"": ""Point""}";RICHARDS ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#138602
+"{""coordinates"": [-123.122642374814, 49.2769340356239], ""type"": ""Point""}";RICHARDS ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#138608
+"{""coordinates"": [-123.132099367685, 49.2660846293344], ""type"": ""Point""}";ALDER CROSSING AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#142640
+"{""coordinates"": [-123.113478185389, 49.2817260488031], ""type"": ""Point""}";HOMER ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#148595
+"{""coordinates"": [-123.123266404433, 49.2752516613079], ""type"": ""Point""}";HOMER ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#148612
+"{""coordinates"": [-123.125903106794, 49.2730809574494], ""type"": ""Point""}";HOMER ST AND PACIFIC BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#148616
+"{""coordinates"": [-123.126493835695, 49.2659946350704], ""type"": ""Point""}";OAK ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#149643
+"{""coordinates"": [-123.130377563799, 49.2045748984673], ""type"": ""Point""}";OAK ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#149840
+"{""coordinates"": [-123.126624974494, 49.262440159041], ""type"": ""Point""}";OAK ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#150654
+"{""coordinates"": [-123.126693954788, 49.2605802300165], ""type"": ""Point""}";OAK ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#150670
+"{""coordinates"": [-123.127229786616, 49.257013577535], ""type"": ""Point""}";OAK ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#150690
+"{""coordinates"": [-123.127546341188, 49.2492316149731], ""type"": ""Point""}";OAK ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#150710
+"{""coordinates"": [-123.128315682237, 49.2265526749615], ""type"": ""Point""}";OAK ST AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#150790
+"{""coordinates"": [-123.129289435584, 49.217120578055], ""type"": ""Point""}";OAK ST AND W 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#150813
+"{""coordinates"": [-123.128967164659, 49.2051673620157], ""type"": ""Point""}";SHAUGHNESSY ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#151840
+"{""coordinates"": [-123.124190471262, 49.2633680513731], ""type"": ""Point""}";LAUREL ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#153650
+"{""coordinates"": [-123.121378020619, 49.2740276149469], ""type"": ""Point""}";DAVIE ST AND PACIFIC BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#155616
+"{""coordinates"": [-123.114216163466, 49.2799672317341], ""type"": ""Point""}";HAMILTON ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#156600
+"{""coordinates"": [-123.123898169217, 49.2170179280112], ""type"": ""Point""}";HEATHER ST AND W 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#156813
+"{""coordinates"": [-123.124435244545, 49.207070851153], ""type"": ""Point""}";HEATHER ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#156840
+"{""coordinates"": [-123.124241751658, 49.2071521100562], ""type"": ""Point""}";HEATHER ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#156840
+"{""coordinates"": [-123.108777374406, 49.2843192291516], ""type"": ""Point""}";CAMBIE ST AND WATER ST;https://app.vancouver.ca/vanmapmtc_net/#157580
+"{""coordinates"": [-123.109119001491, 49.2835187256378], ""type"": ""Point""}";CAMBIE ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#157589
+"{""coordinates"": [-123.11324504948, 49.2793383842048], ""type"": ""Point""}";CAMBIE ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#157600
+"{""coordinates"": [-123.112273646781, 49.2787098421077], ""type"": ""Point""}";BEATTY ST AND GEORGIA VIADUCT;https://app.vancouver.ca/vanmapmtc_net/#160600
+"{""coordinates"": [-123.11716072024, 49.2754746317627], ""type"": ""Point""}";BEATTY ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#160606
+"{""coordinates"": [-123.121546255782, 49.2082840482258], ""type"": ""Point""}";W 70TH AV AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#161840
+"{""coordinates"": [-123.142185678125, 49.2085587189214], ""type"": ""Point""}";W 70TH AV AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#161840
+"{""coordinates"": [-123.120369745433, 49.2490771897251], ""type"": ""Point""}";HEATHER ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#163710
+"{""coordinates"": [-123.117641077638, 49.2594954686654], ""type"": ""Point""}";ASH ST AND W 13TH AV;https://app.vancouver.ca/vanmapmtc_net/#165683
+"{""coordinates"": [-123.115343165422, 49.2664072462001], ""type"": ""Point""}";CAMBIE BRIDGE AND W 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#169640
+"{""coordinates"": [-123.11479296742, 49.2641282821736], ""type"": ""Point""}";CAMBIE ST AND W 8TH AV;https://app.vancouver.ca/vanmapmtc_net/#170648
+"{""coordinates"": [-123.114919809881, 49.2622522341437], ""type"": ""Point""}";CAMBIE ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#170654
+"{""coordinates"": [-123.115084005258, 49.2569079328428], ""type"": ""Point""}";CAMBIE ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#170690
+"{""coordinates"": [-123.115406053886, 49.2489908733174], ""type"": ""Point""}";CAMBIE ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#170710
+"{""coordinates"": [-123.116192190428, 49.2335434701942], ""type"": ""Point""}";CAMBIE ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#170750
+"{""coordinates"": [-123.116342902447, 49.2298159520175], ""type"": ""Point""}";CAMBIE ST AND W 45TH AV;https://app.vancouver.ca/vanmapmtc_net/#170758
+"{""coordinates"": [-123.116492357275, 49.2261139975318], ""type"": ""Point""}";CAMBIE ST AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#170790
+"{""coordinates"": [-123.116854384698, 49.2169387212252], ""type"": ""Point""}";CAMBIE ST AND W 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#170813
+"{""coordinates"": [-123.112867434885, 49.263916542973], ""type"": ""Point""}";YUKON ST AND W 8TH AV;https://app.vancouver.ca/vanmapmtc_net/#171648
+"{""coordinates"": [-123.107195198806, 49.2819909700897], ""type"": ""Point""}";ABBOTT ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#172590
+"{""coordinates"": [-123.107619791786, 49.2786475633526], ""type"": ""Point""}";ABBOTT ST AND EXPO BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#172597
+"{""coordinates"": [-123.11529125892, 49.2064472617093], ""type"": ""Point""}";YUKON ST AND W KENT AV NORTH;https://app.vancouver.ca/vanmapmtc_net/#172837
+"{""coordinates"": [-123.112955735091, 49.2259848837328], ""type"": ""Point""}";ALBERTA ST AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#175790
+"{""coordinates"": [-123.104439414324, 49.2792457133774], ""type"": ""Point""}";CARRALL ST AND KEEFER ST;https://app.vancouver.ca/vanmapmtc_net/#178595
+"{""coordinates"": [-123.109418684539, 49.2692955621268], ""type"": ""Point""}";COLUMBIA ST AND W 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#179640
+"{""coordinates"": [-123.109082543026, 49.2429927612335], ""type"": ""Point""}";MIDLOTHIAN AV AND CLANCY LORANGER WAY;https://app.vancouver.ca/vanmapmtc_net/#181730
+"{""coordinates"": [-123.102255088011, 49.2813842134193], ""type"": ""Point""}";COLUMBIA ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#186590
+"{""coordinates"": [-123.102216051331, 49.2792734980665], ""type"": ""Point""}";QUEBEC ST AND KEEFER ST;https://app.vancouver.ca/vanmapmtc_net/#186594
+"{""coordinates"": [-123.102124586693, 49.27760612334], ""type"": ""Point""}";QUEBEC ST AND EXPO BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#186597
+"{""coordinates"": [-123.102960784439, 49.2629601199603], ""type"": ""Point""}";QUEBEC ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#186650
+"{""coordinates"": [-123.09960646342, 49.2822849414713], ""type"": ""Point""}";MAIN ST AND E CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#190589
+"{""coordinates"": [-123.099729328914, 49.2794814692101], ""type"": ""Point""}";MAIN ST AND KEEFER ST;https://app.vancouver.ca/vanmapmtc_net/#190594
+"{""coordinates"": [-123.09977226362, 49.2785785059798], ""type"": ""Point""}";MAIN ST AND E GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#190596
+"{""coordinates"": [-123.100696908039, 49.2691679881689], ""type"": ""Point""}";MAIN ST AND E 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#190640
+"{""coordinates"": [-123.056574980377, 49.277466391044], ""type"": ""Point""}";NANAIMO ST AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#270598
+"{""coordinates"": [-123.056610298502, 49.2577697737395], ""type"": ""Point""}";NANAIMO ST AND GRANDVIEW HWY SOUTH;https://app.vancouver.ca/vanmapmtc_net/#270670
+"{""coordinates"": [-123.05494602074, 49.2293858772314], ""type"": ""Point""}";ELLIOTT ST AND E 45TH AV;https://app.vancouver.ca/vanmapmtc_net/#270758
+"{""coordinates"": [-123.054893132617, 49.2202194183552], ""type"": ""Point""}";ELLIOTT ST AND E 54TH AV;https://app.vancouver.ca/vanmapmtc_net/#270810
+"{""coordinates"": [-123.049641862841, 49.2446219160799], ""type"": ""Point""}";SLOCAN ST AND E 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#275710
+"{""coordinates"": [-123.054029385048, 49.2400092615712], ""type"": ""Point""}";SLOCAN ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#275770
+"{""coordinates"": [-123.044197202172, 49.2506240540315], ""type"": ""Point""}";RENFREW ST AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#279700
+"{""coordinates"": [-123.044282243233, 49.2619519713698], ""type"": ""Point""}";RENFREW ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#280650
+"{""coordinates"": [-123.044281395038, 49.2581708218746], ""type"": ""Point""}";RENFREW ST AND GRANDVIEW HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#280670
+"{""coordinates"": [-123.041567907294, 49.2619127963208], ""type"": ""Point""}";NOOTKA ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#285650
+"{""coordinates"": [-123.03620066087, 49.2811299439902], ""type"": ""Point""}";WINDERMERE ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#296590
+"{""coordinates"": [-123.033583347653, 49.2774429408845], ""type"": ""Point""}";RUPERT ST AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#298598
+"{""coordinates"": [-123.033692731076, 49.2694599215321], ""type"": ""Point""}";RUPERT ST AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#300630
+"{""coordinates"": [-123.033757565058, 49.2618913418213], ""type"": ""Point""}";RUPERT ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#300650
+"{""coordinates"": [-123.033804698405, 49.2506001184197], ""type"": ""Point""}";RUPERT ST AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#300700
+"{""coordinates"": [-123.041046715047, 49.2247419236721], ""type"": ""Point""}";KERR ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#300790
+"{""coordinates"": [-123.041339465843, 49.2191638264559], ""type"": ""Point""}";KERR ST AND E 55TH AV;https://app.vancouver.ca/vanmapmtc_net/#300811
+"{""coordinates"": [-123.033692731076, 49.2694599215321], ""type"": ""Point""}";TRANS CANADA HIGHWAY AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#303660
+"{""coordinates"": [-123.027505787402, 49.2694674578281], ""type"": ""Point""}";TRANS CANADA HIGHWAY AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#303660
+"{""coordinates"": [-123.028321982136, 49.2811220416012], ""type"": ""Point""}";SKEENA ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#305580
+"{""coordinates"": [-123.028517663987, 49.2581485708494], ""type"": ""Point""}";SKEENA ST AND GRANDVIEW HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#305670
+"{""coordinates"": [-123.035876616588, 49.2341534988201], ""type"": ""Point""}";JOYCE ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#306770
+"{""coordinates"": [-123.03236651056, 49.2200996831653], ""type"": ""Point""}";TYNE ST AND E 54TH AV;https://app.vancouver.ca/vanmapmtc_net/#313810
+"{""coordinates"": [-123.023578267812, 49.2811179775647], ""type"": ""Point""}";BOUNDARY ROAD AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#320590
+"{""coordinates"": [-123.023598545018, 49.2774268372126], ""type"": ""Point""}";BOUNDARY ROAD AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#320598
+"{""coordinates"": [-123.023642649664, 49.2694567477204], ""type"": ""Point""}";BOUNDARY ROAD AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#320630
+"{""coordinates"": [-123.023665234636, 49.2655617219936], ""type"": ""Point""}";BOUNDARY ROAD AND LOUGHEED HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#320650
+"{""coordinates"": [-123.023699910408, 49.2601148624166], ""type"": ""Point""}";BOUNDARY ROAD AND E 11TH AV;https://app.vancouver.ca/vanmapmtc_net/#320665
+"{""coordinates"": [-123.023710895959, 49.2581592414606], ""type"": ""Point""}";BOUNDARY ROAD AND GRANDVIEW HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#320670
+"{""coordinates"": [-123.02372469216, 49.2542096307196], ""type"": ""Point""}";BOUNDARY ROAD AND E 18TH AV;https://app.vancouver.ca/vanmapmtc_net/#320687
+"{""coordinates"": [-123.023784165321, 49.2445072618945], ""type"": ""Point""}";BOUNDARY ROAD AND E 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#320710
+"{""coordinates"": [-123.023643826583, 49.2374003706508], ""type"": ""Point""}";BOUNDARY ROAD AND WELLINGTON AV;https://app.vancouver.ca/vanmapmtc_net/#320715
+"{""coordinates"": [-123.023647166853, 49.2323088893276], ""type"": ""Point""}";BOUNDARY ROAD AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#320770
+"{""coordinates"": [-123.02335843473, 49.2054321743042], ""type"": ""Point""}";BOUNDARY ROAD AND MARINE WAY;https://app.vancouver.ca/vanmapmtc_net/#320830
+"{""coordinates"": [-123.033692731076, 49.2694599215321], ""type"": ""Point""}";E 1ST AV AND TRANS CANADA HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#630312
+"{""coordinates"": [-123.027505787402, 49.2694674578281], ""type"": ""Point""}";E 1ST AV AND TRANS CANADA HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#630312
+"{""coordinates"": [-123.14043574567, 49.2558813731627], ""type"": ""Point""}";MARPOLE AV AND FIR ST;https://app.vancouver.ca/vanmapmtc_net/#695124
+"{""coordinates"": [-123.099513991752, 49.262859261201], ""type"": ""Point""}";KINGSWAY AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#770192
+"{""coordinates"": [-123.096558461299, 49.2598509724826], ""type"": ""Point""}";KINGSWAY AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#770196
+"{""coordinates"": [-123.178731666949, 49.2301481182812], ""type"": ""Point""}";BLENHEIM ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#815830
+"{""coordinates"": [-123.038987137987, 49.207813748129], ""type"": ""Point""}";SE MARINE DRIVE AND MARINE WAY;https://app.vancouver.ca/vanmapmtc_net/#828305
+"{""coordinates"": [-123.171398362515, 49.2273527001855], ""type"": ""Point""}";SW MARINE DRIVE AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#830057
+"{""coordinates"": [-123.1012275379, 49.2565843255112], ""type"": ""Point""}";MAIN ST AND E 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#190689
+"{""coordinates"": [-123.1012275379, 49.2565843255112], ""type"": ""Point""}";MAIN ST AND E 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#190690
+"{""coordinates"": [-123.100980107084, 49.2509397802977], ""type"": ""Point""}";MAIN ST AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#190703
+"{""coordinates"": [-123.101486354168, 49.2405023727232], ""type"": ""Point""}";MAIN ST AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#190730
+"{""coordinates"": [-123.101518589036, 49.2330791487128], ""type"": ""Point""}";MAIN ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#190750
+"{""coordinates"": [-123.102193665642, 49.211094282372], ""type"": ""Point""}";MAIN ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#190830
+"{""coordinates"": [-123.097606874151, 49.2822474872451], ""type"": ""Point""}";GORE AV AND E CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#192589
+"{""coordinates"": [-123.097337192047, 49.280341835337], ""type"": ""Point""}";GORE AV AND E PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#192592
+"{""coordinates"": [-123.096831254733, 49.2767120738632], ""type"": ""Point""}";GORE AV AND PRIOR ST;https://app.vancouver.ca/vanmapmtc_net/#192600
+"{""coordinates"": [-123.099513991752, 49.262859261201], ""type"": ""Point""}";KINGSWAY AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#192650
+"{""coordinates"": [-123.098050301931, 49.2724590184314], ""type"": ""Point""}";STATION ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#193630
+"{""coordinates"": [-123.098644973131, 49.2725619644746], ""type"": ""Point""}";STATION ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#193630
+"{""coordinates"": [-123.09820088506, 49.2677637988991], ""type"": ""Point""}";SCOTIA ST AND E 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#194640
+"{""coordinates"": [-123.096325356555, 49.2666315483686], ""type"": ""Point""}";BRUNSWICK ST AND E 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#195643
+"{""coordinates"": [-123.098377457372, 49.2108357194396], ""type"": ""Point""}";PRINCE EDWARD ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#197830
+"{""coordinates"": [-123.098000574662, 49.2108774122302], ""type"": ""Point""}";PRINCE EDWARD ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#197830
+"{""coordinates"": [-123.091442121635, 49.2821339390623], ""type"": ""Point""}";PRINCESS AV AND E CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#198589
+"{""coordinates"": [-123.089530713738, 49.2811485648101], ""type"": ""Point""}";HEATLEY AV AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#205590
+"{""coordinates"": [-123.089502125169, 49.2710179103365], ""type"": ""Point""}";CAROLINA ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#206630
+"{""coordinates"": [-123.089163225897, 49.2597165933554], ""type"": ""Point""}";FRASER ST AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#210670
+"{""coordinates"": [-123.090346542615, 49.2403061298003], ""type"": ""Point""}";FRASER ST AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#210730
+"{""coordinates"": [-123.090557699938, 49.2328915091199], ""type"": ""Point""}";FRASER ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#210750
+"{""coordinates"": [-123.09077387286, 49.225471822633], ""type"": ""Point""}";FRASER ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#210790
+"{""coordinates"": [-123.091000296287, 49.2165571845354], ""type"": ""Point""}";FRASER ST AND E 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#210813
+"{""coordinates"": [-123.091185842329, 49.2081850853368], ""type"": ""Point""}";FRASER ST AND E KENT AV NORTH;https://app.vancouver.ca/vanmapmtc_net/#210837
+"{""coordinates"": [-123.08478533166, 49.2810590637844], ""type"": ""Point""}";CAMPBELL AV AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#217590
+"{""coordinates"": [-123.087444895622, 49.2706708665195], ""type"": ""Point""}";BEGG ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#217630
+"{""coordinates"": [-123.083700927477, 49.2538476468086], ""type"": ""Point""}";WINDSOR ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#217770
+"{""coordinates"": [-123.082600818962, 49.2768308510353], ""type"": ""Point""}";RAYMUR AV AND VENABLES ST;https://app.vancouver.ca/vanmapmtc_net/#219600
+"{""coordinates"": [-123.077052898318, 49.2830682055775], ""type"": ""Point""}";CLARK DRIVE AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#230580
+"{""coordinates"": [-123.077209514362, 49.2776488595931], ""type"": ""Point""}";CLARK DRIVE AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#230598
+"{""coordinates"": [-123.077228130828, 49.2767557901435], ""type"": ""Point""}";CLARK DRIVE AND VENABLES ST;https://app.vancouver.ca/vanmapmtc_net/#230600
+"{""coordinates"": [-123.077519058648, 49.2614308866525], ""type"": ""Point""}";CLARK DRIVE AND E 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#230655
+"{""coordinates"": [-123.077291375599, 49.2252943974205], ""type"": ""Point""}";KNIGHT ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#230790
+"{""coordinates"": [-123.077058427475, 49.2163887289353], ""type"": ""Point""}";KNIGHT ST AND E 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#230814
+"{""coordinates"": [-123.073580174463, 49.265013891473], ""type"": ""Point""}";WOODLAND DRIVE AND GRANDVIEW HWY NORTH;https://app.vancouver.ca/vanmapmtc_net/#234645
+"{""coordinates"": [-123.073630847215, 49.2623501582411], ""type"": ""Point""}";WOODLAND DRIVE AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#234650
+"{""coordinates"": [-123.072099508606, 49.2110314750099], ""type"": ""Point""}";ARGYLE ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#237830
+"{""coordinates"": [-123.069736090032, 49.2637179331288], ""type"": ""Point""}";COMMERCIAL DRIVE AND GRANDVIEW HWY NORTH;https://app.vancouver.ca/vanmapmtc_net/#250647
+"{""coordinates"": [-123.065536694432, 49.2327506154927], ""type"": ""Point""}";VICTORIA DRIVE AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#250750
+"{""coordinates"": [-123.065153288388, 49.2451645233662], ""type"": ""Point""}";VICTORIA DRIVE AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#250770
+"{""coordinates"": [-123.06611124721, 49.2096895759308], ""type"": ""Point""}";VICTORIA DRIVE AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#250830
+"{""coordinates"": [-123.05887886896, 49.2328576599213], ""type"": ""Point""}";NANAIMO ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#261750
+"{""coordinates"": [-123.056530916608, 49.2847919782587], ""type"": ""Point""}";NANAIMO ST AND DUNDAS ST;https://app.vancouver.ca/vanmapmtc_net/#270580
+"{""coordinates"": [-123.056530916608, 49.2847919782587], ""type"": ""Point""}";NANAIMO ST AND DUNDAS ST;https://app.vancouver.ca/vanmapmtc_net/#270585
+"{""coordinates"": [-123.215024220423, 49.2691038375266], ""type"": ""Point""}";BLANCA ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#020640
+"{""coordinates"": [-123.209099613843, 49.2638291692667], ""type"": ""Point""}";SASAMAT ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#024670
+"{""coordinates"": [-123.203022261741, 49.2637333673633], ""type"": ""Point""}";DISCOVERY ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#027670
+"{""coordinates"": [-123.18588899244, 49.263479194871], ""type"": ""Point""}";ALMA ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#040670
+"{""coordinates"": [-123.18511237547, 49.2579291607219], ""type"": ""Point""}";DUNBAR ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#040690
+"{""coordinates"": [-123.18511237547, 49.2579291607219], ""type"": ""Point""}";DUNBAR ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#041690
+"{""coordinates"": [-123.178721516635, 49.2347537821915], ""type"": ""Point""}";BLENHEIM ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#050750
+"{""coordinates"": [-123.175943064932, 49.2633236928806], ""type"": ""Point""}";TRUTCH ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#053670
+"{""coordinates"": [-123.170234637235, 49.2423138002605], ""type"": ""Point""}";MACKENZIE ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#060730
+"{""coordinates"": [-123.167730686895, 49.2576559197189], ""type"": ""Point""}";MACDONALD ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#070690
+"{""coordinates"": [-123.168407153324, 49.2576667535089], ""type"": ""Point""}";MACDONALD ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#070690
+"{""coordinates"": [-123.168410317655, 49.2257792618228], ""type"": ""Point""}";MACDONALD ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#070830
+"{""coordinates"": [-123.162472608989, 49.2422394530548], ""type"": ""Point""}";LARCH ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#077730
+"{""coordinates"": [-123.157505271293, 49.2682058885621], ""type"": ""Point""}";VINE ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#084640
+"{""coordinates"": [-123.157702717199, 49.2629391693922], ""type"": ""Point""}";VINE ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#084654
+"{""coordinates"": [-123.154405563421, 49.21513679681], ""type"": ""Point""}";ARBUTUS ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#085830
+"{""coordinates"": [-123.155333945522, 49.2629009868835], ""type"": ""Point""}";YEW ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#087654
+"{""coordinates"": [-123.152766149976, 49.2681310913406], ""type"": ""Point""}";ARBUTUS ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#090640
+"{""coordinates"": [-123.153105879203, 49.251547788], ""type"": ""Point""}";ARBUTUS ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#090710
+"{""coordinates"": [-123.155426600694, 49.2382962177948], ""type"": ""Point""}";WEST BOULEVARD AND W 37TH AV;https://app.vancouver.ca/vanmapmtc_net/#090739
+"{""coordinates"": [-123.150532325627, 49.2194817392287], ""type"": ""Point""}";WEST BOULEVARD AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#090810
+"{""coordinates"": [-123.148163972862, 49.2627859309164], ""type"": ""Point""}";CYPRESS ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#097654
+"{""coordinates"": [-123.139683627721, 49.2886617595957], ""type"": ""Point""}";DENMAN ST AND COMOX ST;https://app.vancouver.ca/vanmapmtc_net/#110607
+"{""coordinates"": [-123.130597257994, 49.2905612452676], ""type"": ""Point""}";CARDERO ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#114600
+"{""coordinates"": [-123.129414636208, 49.2897959905806], ""type"": ""Point""}";NICOLA ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#115600
+"{""coordinates"": [-123.130043815419, 49.2893796080277], ""type"": ""Point""}";NICOLA ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#115601
+"{""coordinates"": [-123.128237147069, 49.2890340269092], ""type"": ""Point""}";BROUGHTON ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#116600
+"{""coordinates"": [-123.125521661875, 49.2890270623598], ""type"": ""Point""}";JERVIS ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#117592
+"{""coordinates"": [-123.125742731828, 49.2888808207459], ""type"": ""Point""}";JERVIS ST AND MELVILLE ST;https://app.vancouver.ca/vanmapmtc_net/#117597
+"{""coordinates"": [-123.129615063353, 49.2863190835969], ""type"": ""Point""}";JERVIS ST AND HARO ST;https://app.vancouver.ca/vanmapmtc_net/#117603
+"{""coordinates"": [-123.12208543792, 49.2892349512173], ""type"": ""Point""}";BUTE ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#118589
+"{""coordinates"": [-123.123372729994, 49.2883915599916], ""type"": ""Point""}";BUTE ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#118592
+"{""coordinates"": [-123.124170335692, 49.2878637951194], ""type"": ""Point""}";BUTE ST AND MELVILLE ST;https://app.vancouver.ca/vanmapmtc_net/#118597
+"{""coordinates"": [-123.131232631951, 49.2831905196589], ""type"": ""Point""}";BUTE ST AND COMOX ST;https://app.vancouver.ca/vanmapmtc_net/#118607
+"{""coordinates"": [-123.133359299114, 49.2817831675822], ""type"": ""Point""}";BUTE ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#118612
+"{""coordinates"": [-123.120406926923, 49.2875203293589], ""type"": ""Point""}";THURLOW ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#119592
+"{""coordinates"": [-123.124820000355, 49.2846019838144], ""type"": ""Point""}";THURLOW ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#119602
+"{""coordinates"": [-123.128009299206, 49.2824919387092], ""type"": ""Point""}";THURLOW ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#119606
+"{""coordinates"": [-123.129069609385, 49.2817903787631], ""type"": ""Point""}";THURLOW ST AND COMOX ST;https://app.vancouver.ca/vanmapmtc_net/#119607
+"{""coordinates"": [-123.13332368094, 49.2789770726873], ""type"": ""Point""}";THURLOW ST AND HARWOOD ST;https://app.vancouver.ca/vanmapmtc_net/#119615
+"{""coordinates"": [-123.135432832896, 49.2775813305752], ""type"": ""Point""}";THURLOW ST AND BEACH AV;https://app.vancouver.ca/vanmapmtc_net/#119617
+"{""coordinates"": [-123.119394902985, 49.2855539964097], ""type"": ""Point""}";BURRARD ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#120595
+"{""coordinates"": [-123.121739008488, 49.2840037954005], ""type"": ""Point""}";BURRARD ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#120601
+"{""coordinates"": [-123.1275894216, 49.2801331991203], ""type"": ""Point""}";BURRARD ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#120608
+"{""coordinates"": [-123.129181117067, 49.2790800585704], ""type"": ""Point""}";BURRARD ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#120612
+"{""coordinates"": [-123.145757815007, 49.2637138643099], ""type"": ""Point""}";BURRARD ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#120650
+"{""coordinates"": [-123.145999850954, 49.2571679231462], ""type"": ""Point""}";BURRARD ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#120690
+"{""coordinates"": [-123.14824548683, 49.2194528612861], ""type"": ""Point""}";ANGUS DRIVE AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#120810
+"{""coordinates"": [-123.144718149383, 49.2475004558752], ""type"": ""Point""}";MARGUERITE ST AND NANTON AV;https://app.vancouver.ca/vanmapmtc_net/#122717
+"{""coordinates"": [-123.145148047557, 49.2086036480176], ""type"": ""Point""}";BARNARD ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#122830
+"{""coordinates"": [-123.115827348877, 49.2865771720769], ""type"": ""Point""}";HORNBY ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#124590
+"{""coordinates"": [-123.12816098763, 49.278420121403], ""type"": ""Point""}";HORNBY ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#124612
+"{""coordinates"": [-123.129755116459, 49.2773655497645], ""type"": ""Point""}";HORNBY ST AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#124614
+"{""coordinates"": [-123.141125262164, 49.2608115336708], ""type"": ""Point""}";FIR ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#124670
+"{""coordinates"": [-123.141262795519, 49.2570927812721], ""type"": ""Point""}";FIR ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#124690
+"{""coordinates"": [-123.141262795519, 49.2570927812721], ""type"": ""Point""}";FIR ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#124691
+"{""coordinates"": [-123.120803402004, 49.2819962535201], ""type"": ""Point""}";HOWE ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#126602
+"{""coordinates"": [-123.125598203261, 49.2788455833812], ""type"": ""Point""}";HOWE ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#126608
+"{""coordinates"": [-123.119828241155, 49.2813646068764], ""type"": ""Point""}";GRANVILLE ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#130602
+"{""coordinates"": [-123.121421528324, 49.2803113163372], ""type"": ""Point""}";GRANVILLE ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#130604
+"{""coordinates"": [-123.12779209588, 49.2760951815755], ""type"": ""Point""}";GRANVILLE BRIDGE AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#130614
+"{""coordinates"": [-123.138491255108, 49.265347002779], ""type"": ""Point""}";GRANVILLE ST AND W 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#130646
+"{""coordinates"": [-123.140147447203, 49.2193507353091], ""type"": ""Point""}";GRANVILLE ST AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#130810
+"{""coordinates"": [-123.140217737062, 49.2174133623017], ""type"": ""Point""}";GRANVILLE ST AND W 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#130813
+"{""coordinates"": [-123.140522936616, 49.2085343424346], ""type"": ""Point""}";GRANVILLE ST AND W 70TH AV;https://app.vancouver.ca/vanmapmtc_net/#130830
+"{""coordinates"": [-123.140519899893, 49.2086242181312], ""type"": ""Point""}";GRANVILLE ST AND W 70TH AV;https://app.vancouver.ca/vanmapmtc_net/#130830
+"{""coordinates"": [-123.140573342245, 49.2070736120833], ""type"": ""Point""}";GRANVILLE ST AND W 71ST AV;https://app.vancouver.ca/vanmapmtc_net/#130832
+"{""coordinates"": [-123.140643842999, 49.2050742477074], ""type"": ""Point""}";GRANVILLE ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#130840
+"{""coordinates"": [-123.115420174491, 49.2829823889227], ""type"": ""Point""}";SEYMOUR ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#134595
+"{""coordinates"": [-123.120428120462, 49.2796686743399], ""type"": ""Point""}";SEYMOUR ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#134604
+"{""coordinates"": [-123.123615663425, 49.2775630900056], ""type"": ""Point""}";SEYMOUR ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#134608
+"{""coordinates"": [-123.125206822733, 49.2765088953697], ""type"": ""Point""}";SEYMOUR ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#134612
+"{""coordinates"": [-123.126801251404, 49.275453407978], ""type"": ""Point""}";SEYMOUR ST AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#134614
+"{""coordinates"": [-123.136000269977, 49.2661466059377], ""type"": ""Point""}";HEMLOCK ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#134643
+"{""coordinates"": [-123.110953413717, 49.2846779363066], ""type"": ""Point""}";RICHARDS ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#138589
+"{""coordinates"": [-123.116158614795, 49.2812247921746], ""type"": ""Point""}";RICHARDS ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#138600
+"{""coordinates"": [-123.119457899093, 49.2790405349911], ""type"": ""Point""}";RICHARDS ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#138604
+"{""coordinates"": [-123.121050088526, 49.2779874132818], ""type"": ""Point""}";RICHARDS ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#138606
+"{""coordinates"": [-123.124236092333, 49.2758799503469], ""type"": ""Point""}";RICHARDS ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#138612
+"{""coordinates"": [-123.125831046114, 49.2748249786257], ""type"": ""Point""}";RICHARDS ST AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#138614
+"{""coordinates"": [-123.127479989997, 49.2737346974995], ""type"": ""Point""}";RICHARDS ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#138616
+"{""coordinates"": [-123.131260965676, 49.2660711837226], ""type"": ""Point""}";ALDER ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#146640
+"{""coordinates"": [-123.109952374967, 49.2840580629153], ""type"": ""Point""}";HOMER ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#148589
+"{""coordinates"": [-123.111913881945, 49.2827610368108], ""type"": ""Point""}";HOMER ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#148592
+"{""coordinates"": [-123.115187014047, 49.2805965021074], ""type"": ""Point""}";HOMER ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#148600
+"{""coordinates"": [-123.116887837306, 49.279463063806], ""type"": ""Point""}";HOMER ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#148602
+"{""coordinates"": [-123.126524732736, 49.2651558005585], ""type"": ""Point""}";OAK ST AND W 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#150646
+"{""coordinates"": [-123.126589143825, 49.2634065107576], ""type"": ""Point""}";OAK ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#150650
+"{""coordinates"": [-123.127224276744, 49.2571467039324], ""type"": ""Point""}";OAK ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#150690
+"{""coordinates"": [-123.12771396923, 49.2444720602123], ""type"": ""Point""}";OAK ST AND DEVONSHIRE CRESCENT;https://app.vancouver.ca/vanmapmtc_net/#150719
+"{""coordinates"": [-123.127818712954, 49.2414345896128], ""type"": ""Point""}";OAK ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#150730
+"{""coordinates"": [-123.130046962052, 49.2144586841067], ""type"": ""Point""}";OAK ST AND PARK DRIVE;https://app.vancouver.ca/vanmapmtc_net/#150819
+"{""coordinates"": [-123.13024568806, 49.2084713060909], ""type"": ""Point""}";OAK ST AND W 70TH AV;https://app.vancouver.ca/vanmapmtc_net/#150830
+"{""coordinates"": [-123.110958664335, 49.2821321728246], ""type"": ""Point""}";HAMILTON ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#156592
+"{""coordinates"": [-123.117382007398, 49.2776958763539], ""type"": ""Point""}";MAINLAND ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#156604
+"{""coordinates"": [-123.118972213365, 49.276641577268], ""type"": ""Point""}";MAINLAND ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#156606
+"{""coordinates"": [-123.122160214487, 49.2745351188471], ""type"": ""Point""}";MAINLAND ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#156612
+"{""coordinates"": [-123.111536275466, 49.2804691698229], ""type"": ""Point""}";CAMBIE ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#157595
+"{""coordinates"": [-123.110550859626, 49.2798505836558], ""type"": ""Point""}";BEATTY ST AND DUNSMUIR VIADUCT;https://app.vancouver.ca/vanmapmtc_net/#160595
+"{""coordinates"": [-123.121422687248, 49.2083360015602], ""type"": ""Point""}";W 70TH AV AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#161840
+"{""coordinates"": [-123.1205999495, 49.2658997334589], ""type"": ""Point""}";MOBERLY ROAD AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#162640
+"{""coordinates"": [-123.119871884649, 49.2632984996406], ""type"": ""Point""}";HEATHER ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#163650
+"{""coordinates"": [-123.120080661041, 49.2570061766425], ""type"": ""Point""}";HEATHER ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#163690
+"{""coordinates"": [-123.117405269715, 49.2658460851031], ""type"": ""Point""}";ASH ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#165645
+"{""coordinates"": [-123.117502956781, 49.2632605261143], ""type"": ""Point""}";ASH ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#165650
+"{""coordinates"": [-123.116130416261, 49.2660448449826], ""type"": ""Point""}";CAMBIE BRIDGE AND W 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#169640
+"{""coordinates"": [-123.1147566912, 49.264965471754], ""type"": ""Point""}";CAMBIE ST AND W 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#170646
+"{""coordinates"": [-123.114967618878, 49.2603920853582], ""type"": ""Point""}";CAMBIE ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#170670
+"{""coordinates"": [-123.118436735022, 49.2410839395772], ""type"": ""Point""}";CAMBIE ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#170730
+"{""coordinates"": [-123.118436735022, 49.2410839395772], ""type"": ""Point""}";CAMBIE ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#170733
+"{""coordinates"": [-123.116266793789, 49.2316447959488], ""type"": ""Point""}";CAMBIE ST AND W 43RD AV;https://app.vancouver.ca/vanmapmtc_net/#170755
+"{""coordinates"": [-123.116771039662, 49.2190536270881], ""type"": ""Point""}";CAMBIE ST AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#170810
+"{""coordinates"": [-123.117110735151, 49.2101449448247], ""type"": ""Point""}";CAMBIE ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#170830
+"{""coordinates"": [-123.112786894964, 49.2657255317809], ""type"": ""Point""}";YUKON ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#171645
+"{""coordinates"": [-123.112827570252, 49.2648206862237], ""type"": ""Point""}";YUKON ST AND W 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#171646
+"{""coordinates"": [-123.112899719339, 49.2631820329569], ""type"": ""Point""}";YUKON ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#171650
+"{""coordinates"": [-123.113005508473, 49.2603600319703], ""type"": ""Point""}";YUKON ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#171670
+"{""coordinates"": [-123.115059960754, 49.2109621798577], ""type"": ""Point""}";YUKON ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#171830
+"{""coordinates"": [-123.106383316015, 49.2838849695891], ""type"": ""Point""}";ABBOTT ST AND WATER ST;https://app.vancouver.ca/vanmapmtc_net/#172580
+"{""coordinates"": [-123.107617158978, 49.2797070841773], ""type"": ""Point""}";ABBOTT ST AND KEEFER PLACE;https://app.vancouver.ca/vanmapmtc_net/#172595
+"{""coordinates"": [-123.110851415266, 49.2656901469596], ""type"": ""Point""}";ALBERTA ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#173645
+"{""coordinates"": [-123.104304422428, 49.2824756999308], ""type"": ""Point""}";CARRALL ST AND E CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#178589
+"{""coordinates"": [-123.106147472127, 49.278055370303], ""type"": ""Point""}";CARRALL ST AND EXPO BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#178597
+"{""coordinates"": [-123.10638079677, 49.2770957777108], ""type"": ""Point""}";CARRALL ST AND PACIFIC BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#178598
+"{""coordinates"": [-123.109427912276, 49.2674715010025], ""type"": ""Point""}";COLUMBIA ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#179642
+"{""coordinates"": [-123.109490181161, 49.2621608802781], ""type"": ""Point""}";COLUMBIA ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#179654
+"{""coordinates"": [-123.110750632146, 49.2259043200557], ""type"": ""Point""}";COLUMBIA ST AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#179790
+"{""coordinates"": [-123.109972150502, 49.2121898206229], ""type"": ""Point""}";MANITOBA ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#181830
+"{""coordinates"": [-123.104597864523, 49.2701891823762], ""type"": ""Point""}";ONTARIO ST AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#184638
+"{""coordinates"": [-123.104788736384, 49.2655776356225], ""type"": ""Point""}";ONTARIO ST AND E 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#184645
+"{""coordinates"": [-123.106252299752, 49.2168124622739], ""type"": ""Point""}";ONTARIO ST AND E 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#184813
+"{""coordinates"": [-123.105012552641, 49.2602735958038], ""type"": ""Point""}";ONTARIO ST AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#184970
+"{""coordinates"": [-123.102215820523, 49.2823329668156], ""type"": ""Point""}";COLUMBIA ST AND E CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#186589
+"{""coordinates"": [-123.102297141736, 49.2804345676082], ""type"": ""Point""}";COLUMBIA ST AND E PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#186592
+"{""coordinates"": [-123.101728091713, 49.2730159952323], ""type"": ""Point""}";QUEBEC ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#186630
+"{""coordinates"": [-123.102570024261, 49.2701519642719], ""type"": ""Point""}";QUEBEC ST AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#186638
+"{""coordinates"": [-123.10266214158, 49.2701536363926], ""type"": ""Point""}";QUEBEC ST AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#186638
+"{""coordinates"": [-123.102701187375, 49.2692043837104], ""type"": ""Point""}";QUEBEC ST AND E 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#186640
+"{""coordinates"": [-123.102891958793, 49.2646384977725], ""type"": ""Point""}";QUEBEC ST AND E 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#186646
+"{""coordinates"": [-123.099526789677, 49.2840935188567], ""type"": ""Point""}";MAIN ST AND ALEXANDER ST;https://app.vancouver.ca/vanmapmtc_net/#190579
+"{""coordinates"": [-123.099648798315, 49.2813356595642], ""type"": ""Point""}";MAIN ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#190590
+"{""coordinates"": [-123.056588716479, 49.2695058493794], ""type"": ""Point""}";NANAIMO ST AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#270630
+"{""coordinates"": [-123.055395506348, 49.2328264909866], ""type"": ""Point""}";CLARENDON ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#270750
+"{""coordinates"": [-123.058127991121, 49.2418856341958], ""type"": ""Point""}";NANAIMO ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#270770
+"{""coordinates"": [-123.054877411631, 49.2189564874116], ""type"": ""Point""}";ELLIOTT ST AND ASHBURN ST;https://app.vancouver.ca/vanmapmtc_net/#270811
+"{""coordinates"": [-123.056860361574, 49.2070863901409], ""type"": ""Point""}";ELLIOTT ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#270830
+"{""coordinates"": [-123.055483882931, 49.2358806935488], ""type"": ""Point""}";CLARENDON ST AND E 38TH AV;https://app.vancouver.ca/vanmapmtc_net/#273741
+"{""coordinates"": [-123.049578140228, 49.2620115064721], ""type"": ""Point""}";SLOCAN ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#275650
+"{""coordinates"": [-123.049554141062, 49.2583864073984], ""type"": ""Point""}";SLOCAN ST AND GRANDVIEW HWY NORTH;https://app.vancouver.ca/vanmapmtc_net/#275668
+"{""coordinates"": [-123.04961575936, 49.2506605134001], ""type"": ""Point""}";SLOCAN ST AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#275700
+"{""coordinates"": [-123.049514773941, 49.2446214934943], ""type"": ""Point""}";SLOCAN ST AND E 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#275710
+"{""coordinates"": [-123.04702548626, 49.2581872149121], ""type"": ""Point""}";KASLO ST AND GRANDVIEW HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#277670
+"{""coordinates"": [-123.050137757716, 49.2327891666635], ""type"": ""Point""}";RHODES ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#279750
+"{""coordinates"": [-123.044076520854, 49.2811232429382], ""type"": ""Point""}";RENFREW ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#280590
+"{""coordinates"": [-123.042154256037, 49.2445906670857], ""type"": ""Point""}";EARLES ST AND E 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#280710
+"{""coordinates"": [-123.048891849065, 49.237624489024], ""type"": ""Point""}";EARLES ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#280770
+"{""coordinates"": [-123.048891849065, 49.237624489024], ""type"": ""Point""}";EARLES ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#281770
+"{""coordinates"": [-123.040156999944, 49.2619093274231], ""type"": ""Point""}";NOOTKA ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#285650
+"{""coordinates"": [-123.047695427685, 49.2076642117397], ""type"": ""Point""}";JELLICOE ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#285830
+"{""coordinates"": [-123.030782876228, 49.2774379612832], ""type"": ""Point""}";CASSIAR ST AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#300598
+"{""coordinates"": [-123.030956945813, 49.2774382208113], ""type"": ""Point""}";CASSIAR ST AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#300598
+"{""coordinates"": [-123.033980555028, 49.2445576263729], ""type"": ""Point""}";RUPERT ST AND E 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#300710
+"{""coordinates"": [-123.042256338686, 49.2081071383573], ""type"": ""Point""}";KERR ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#300830
+"{""coordinates"": [-123.028321982136, 49.2811220416012], ""type"": ""Point""}";SKEENA ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#305590
+"{""coordinates"": [-123.025696297156, 49.2811205758994], ""type"": ""Point""}";KOOTENAY ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#312590
+"{""coordinates"": [-123.032206955284, 49.2246622423298], ""type"": ""Point""}";TYNE ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#312790
+"{""coordinates"": [-123.030909797216, 49.2080676994561], ""type"": ""Point""}";MATHESON CRESCENT AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#315828
+"{""coordinates"": [-123.026148989212, 49.2222708786985], ""type"": ""Point""}";FRONTENAC ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#317790
+"{""coordinates"": [-123.023477940654, 49.2867074059709], ""type"": ""Point""}";N BOUNDARY ROAD AND CAMBRIDGE ST;https://app.vancouver.ca/vanmapmtc_net/#320576
+"{""coordinates"": [-123.023638727331, 49.2703092230542], ""type"": ""Point""}";BOUNDARY ROAD AND GRAVELEY ST;https://app.vancouver.ca/vanmapmtc_net/#320616
+"{""coordinates"": [-123.023720586687, 49.2425672730951], ""type"": ""Point""}";BOUNDARY ROAD AND MOSCROP ST;https://app.vancouver.ca/vanmapmtc_net/#320711
+"{""coordinates"": [-123.023653778843, 49.2344536754017], ""type"": ""Point""}";BOUNDARY ROAD AND VANNESS AV;https://app.vancouver.ca/vanmapmtc_net/#320718
+"{""coordinates"": [-123.023606579336, 49.2219475667675], ""type"": ""Point""}";BOUNDARY ROAD AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#320790
+"{""coordinates"": [-123.023607546171, 49.2174732219074], ""type"": ""Point""}";BOUNDARY ROAD AND ARBOR AV;https://app.vancouver.ca/vanmapmtc_net/#320814
+"{""coordinates"": [-123.023600706644, 49.214805957393], ""type"": ""Point""}";BOUNDARY ROAD AND RUMBLE AV;https://app.vancouver.ca/vanmapmtc_net/#320818
+"{""coordinates"": [-123.196711162362, 49.2347715005644], ""type"": ""Point""}";SW MARINE DRIVE AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#830030
+"{""coordinates"": [-123.158535795874, 49.2195795741581], ""type"": ""Point""}";SW MARINE DRIVE AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#830082
+"{""coordinates"": [-123.100972767687, 49.2511735428084], ""type"": ""Point""}";MAIN ST AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#190703
+"{""coordinates"": [-123.101632002575, 49.225663160914], ""type"": ""Point""}";MAIN ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#190790
+"{""coordinates"": [-123.101958227244, 49.2167520757722], ""type"": ""Point""}";MAIN ST AND E 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#190813
+"{""coordinates"": [-123.097735253454, 49.2831561251733], ""type"": ""Point""}";GORE AV AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#192580
+"{""coordinates"": [-123.095381588335, 49.2812571183385], ""type"": ""Point""}";DUNLEVY AV AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#194590
+"{""coordinates"": [-123.093628530741, 49.2766527468092], ""type"": ""Point""}";MALKIN AV AND PRIOR ST;https://app.vancouver.ca/vanmapmtc_net/#196600
+"{""coordinates"": [-123.091683436002, 49.2766128715994], ""type"": ""Point""}";PRINCESS AV AND PRIOR ST;https://app.vancouver.ca/vanmapmtc_net/#198600
+"{""coordinates"": [-123.091981853716, 49.275390692699], ""type"": ""Point""}";THORNTON ST AND MALKIN AV;https://app.vancouver.ca/vanmapmtc_net/#198607
+"{""coordinates"": [-123.093328876633, 49.2716633202141], ""type"": ""Point""}";THORNTON ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#198630
+"{""coordinates"": [-123.089450508453, 49.2830021078921], ""type"": ""Point""}";HEATLEY AV AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#205580
+"{""coordinates"": [-123.089118930313, 49.2624737105706], ""type"": ""Point""}";FRASER ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#210650
+"{""coordinates"": [-123.090953113775, 49.2182554817966], ""type"": ""Point""}";FRASER ST AND E 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#210810
+"{""coordinates"": [-123.09110216274, 49.2110128638778], ""type"": ""Point""}";FRASER ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#210830
+"{""coordinates"": [-123.084991958604, 49.2764935107429], ""type"": ""Point""}";CAMPBELL AV AND VENABLES ST;https://app.vancouver.ca/vanmapmtc_net/#217600
+"{""coordinates"": [-123.086083114414, 49.2742183071286], ""type"": ""Point""}";CHESS ST AND MALKIN AV;https://app.vancouver.ca/vanmapmtc_net/#217607
+"{""coordinates"": [-123.083949073209, 49.2454547712875], ""type"": ""Point""}";WINDSOR ST AND E 28TH AV;https://app.vancouver.ca/vanmapmtc_net/#217717
+"{""coordinates"": [-123.083841648568, 49.2700013024463], ""type"": ""Point""}";COTTRELL ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#219631
+"{""coordinates"": [-123.081309664504, 49.2652311364251], ""type"": ""Point""}";GLEN DRIVE AND E 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#222640
+"{""coordinates"": [-123.079899311394, 49.2111037367998], ""type"": ""Point""}";INVERNESS ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#226830
+"{""coordinates"": [-123.077092917807, 49.2813216268518], ""type"": ""Point""}";CLARK DRIVE AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#230590
+"{""coordinates"": [-123.077354173869, 49.2696718429573], ""type"": ""Point""}";CLARK DRIVE AND GRANDVIEW VIADUCT;https://app.vancouver.ca/vanmapmtc_net/#230630
+"{""coordinates"": [-123.077391556668, 49.2678527897231], ""type"": ""Point""}";CLARK DRIVE AND E 3RD AV;https://app.vancouver.ca/vanmapmtc_net/#230633
+"{""coordinates"": [-123.077422898206, 49.2662659945946], ""type"": ""Point""}";CLARK DRIVE AND GRANDVIEW HWY NORTH;https://app.vancouver.ca/vanmapmtc_net/#230639
+"{""coordinates"": [-123.076151433397, 49.2485030591371], ""type"": ""Point""}";KNIGHT ST AND E KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#230710
+"{""coordinates"": [-123.07640496412, 49.2402092009028], ""type"": ""Point""}";KNIGHT ST AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#230730
+"{""coordinates"": [-123.070331459148, 49.2838419549057], ""type"": ""Point""}";COMMERCIAL DRIVE AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#250580
+"{""coordinates"": [-123.070389715114, 49.2812347249948], ""type"": ""Point""}";COMMERCIAL DRIVE AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#250590
+"{""coordinates"": [-123.070486504198, 49.2766665329902], ""type"": ""Point""}";COMMERCIAL DRIVE AND VENABLES ST;https://app.vancouver.ca/vanmapmtc_net/#250600
+"{""coordinates"": [-123.069781081812, 49.2613695847955], ""type"": ""Point""}";COMMERCIAL DRIVE AND E 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#250655
+"{""coordinates"": [-123.069815535021, 49.2595612692762], ""type"": ""Point""}";COMMERCIAL DRIVE AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#250670
+"{""coordinates"": [-123.069867853207, 49.2568463028598], ""type"": ""Point""}";COMMERCIAL DRIVE AND E 15TH AV;https://app.vancouver.ca/vanmapmtc_net/#250685
+"{""coordinates"": [-123.065933654359, 49.2180684756144], ""type"": ""Point""}";VICTORIA DRIVE AND UPLAND DRIVE;https://app.vancouver.ca/vanmapmtc_net/#250812
+"{""coordinates"": [-123.065507375632, 49.2848388427842], ""type"": ""Point""}";VICTORIA DRIVE AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#253580
+"{""coordinates"": [-123.065753542043, 49.2695682455301], ""type"": ""Point""}";VICTORIA DRIVE AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#253630
+"{""coordinates"": [-123.057845925168, 49.2802305151175], ""type"": ""Point""}";GARDEN DRIVE AND E PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#267592
+"{""coordinates"": [-123.057951566171, 49.272950760645], ""type"": ""Point""}";GARDEN DRIVE AND CHARLES ST;https://app.vancouver.ca/vanmapmtc_net/#267607
+"{""coordinates"": [-123.056503922677, 49.2884260151033], ""type"": ""Point""}";N NANAIMO ST AND MCGILL ST;https://app.vancouver.ca/vanmapmtc_net/#270570
+"{""coordinates"": [-123.215411833435, 49.2583876941919], ""type"": ""Point""}";BLANCA ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#020690
+"{""coordinates"": [-123.205873079508, 49.2689629909974], ""type"": ""Point""}";TRIMBLE ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#026640
+"{""coordinates"": [-123.192360061686, 49.2332035882093], ""type"": ""Point""}";HOLLAND ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#033830
+"{""coordinates"": [-123.185702495007, 49.268623026731], ""type"": ""Point""}";ALMA ST AND W 4TH AV;https://app.vancouver.ca/vanmapmtc_net/#040640
+"{""coordinates"": [-123.184016013894, 49.2579127746242], ""type"": ""Point""}";DUNBAR ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#040690
+"{""coordinates"": [-123.185185898338, 49.2500607913281], ""type"": ""Point""}";DUNBAR ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#040710
+"{""coordinates"": [-123.18526318689, 49.2423687170285], ""type"": ""Point""}";DUNBAR ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#040730
+"{""coordinates"": [-123.177843871848, 49.2642382181928], ""type"": ""Point""}";BLENHEIM ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#050650
+"{""coordinates"": [-123.177876475414, 49.2633535975052], ""type"": ""Point""}";BLENHEIM ST AND W 10TH AV;https://app.vancouver.ca/vanmapmtc_net/#050670
+"{""coordinates"": [-123.178585454506, 49.2500309814737], ""type"": ""Point""}";BLENHEIM ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#050710
+"{""coordinates"": [-123.170258313385, 49.2347411187549], ""type"": ""Point""}";MACKENZIE ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#060750
+"{""coordinates"": [-123.167376621401, 49.2347367458962], ""type"": ""Point""}";MACDONALD ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#070750
+"{""coordinates"": [-123.162746107449, 49.2346866149058], ""type"": ""Point""}";LARCH ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#077750
+"{""coordinates"": [-123.159711366623, 49.2726542343075], ""type"": ""Point""}";BALSAM ST AND CORNWALL AV;https://app.vancouver.ca/vanmapmtc_net/#078630
+"{""coordinates"": [-123.15515213722, 49.2271583096935], ""type"": ""Point""}";ARBUTUS ST AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#085790
+"{""coordinates"": [-123.155232904079, 49.2249826307147], ""type"": ""Point""}";ARBUTUS ST AND W 51ST AV;https://app.vancouver.ca/vanmapmtc_net/#085794
+"{""coordinates"": [-123.154518697706, 49.2195315294609], ""type"": ""Point""}";ARBUTUS ST AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#085810
+"{""coordinates"": [-123.15466476872, 49.2153911787024], ""type"": ""Point""}";ARBUTUS ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#085830
+"{""coordinates"": [-123.152603412318, 49.2725402618739], ""type"": ""Point""}";ARBUTUS ST AND CORNWALL AV;https://app.vancouver.ca/vanmapmtc_net/#090630
+"{""coordinates"": [-123.153034012671, 49.2610033926762], ""type"": ""Point""}";ARBUTUS ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#090670
+"{""coordinates"": [-123.152892581058, 49.2572768858973], ""type"": ""Point""}";ARBUTUS ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#090690
+"{""coordinates"": [-123.153174446974, 49.2572816834874], ""type"": ""Point""}";ARBUTUS ST AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#090690
+"{""coordinates"": [-123.155561873814, 49.2345760720561], ""type"": ""Point""}";WEST BOULEVARD AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#090750
+"{""coordinates"": [-123.148634651953, 49.2094097805178], ""type"": ""Point""}";ANGUS DRIVE AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#090830
+"{""coordinates"": [-123.155009785785, 49.2345677262713], ""type"": ""Point""}";EAST BOULEVARD AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#091750
+"{""coordinates"": [-123.154489030063, 49.2271500939085], ""type"": ""Point""}";EAST BOULEVARD AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#091790
+"{""coordinates"": [-123.135434231935, 49.2914765590553], ""type"": ""Point""}";DENMAN ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#110602
+"{""coordinates"": [-123.131226036991, 49.2901445775923], ""type"": ""Point""}";CARDERO ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#114601
+"{""coordinates"": [-123.129025141676, 49.2900537333902], ""type"": ""Point""}";NICOLA ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#115592
+"{""coordinates"": [-123.127488460389, 49.287725988766], ""type"": ""Point""}";JERVIS ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#117601
+"{""coordinates"": [-123.131742715775, 49.2849110058161], ""type"": ""Point""}";JERVIS ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#117606
+"{""coordinates"": [-123.122752142713, 49.2888021765257], ""type"": ""Point""}";BUTE ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#118590
+"{""coordinates"": [-123.125287047959, 49.2871248600604], ""type"": ""Point""}";BUTE ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#118600
+"{""coordinates"": [-123.122005396224, 49.2864633885217], ""type"": ""Point""}";THURLOW ST AND MELVILLE ST;https://app.vancouver.ca/vanmapmtc_net/#119597
+"{""coordinates"": [-123.123752580605, 49.2853081357692], ""type"": ""Point""}";THURLOW ST AND ALBERNI ST;https://app.vancouver.ca/vanmapmtc_net/#119601
+"{""coordinates"": [-123.131196967032, 49.2803840554588], ""type"": ""Point""}";THURLOW ST AND DAVIE ST;https://app.vancouver.ca/vanmapmtc_net/#119612
+"{""coordinates"": [-123.134387134899, 49.2782728412031], ""type"": ""Point""}";THURLOW ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#119616
+"{""coordinates"": [-123.116235508881, 49.2876433991277], ""type"": ""Point""}";BURRARD ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#120589
+"{""coordinates"": [-123.121110101698, 49.2844194935301], ""type"": ""Point""}";BURRARD ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#120600
+"{""coordinates"": [-123.122808940902, 49.2832956885431], ""type"": ""Point""}";BURRARD ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#120602
+"{""coordinates"": [-123.125996095938, 49.2811873448181], ""type"": ""Point""}";BURRARD ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#120606
+"{""coordinates"": [-123.127055858835, 49.2804862265101], ""type"": ""Point""}";BURRARD ST AND COMOX ST;https://app.vancouver.ca/vanmapmtc_net/#120607
+"{""coordinates"": [-123.130775312893, 49.2780251940355], ""type"": ""Point""}";BURRARD ST AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#120614
+"{""coordinates"": [-123.145617172572, 49.2688983567263], ""type"": ""Point""}";BURRARD ST AND W 3RD AV;https://app.vancouver.ca/vanmapmtc_net/#120638
+"{""coordinates"": [-123.132369080681, 49.276970665521], ""type"": ""Point""}";BURRARD ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#121616
+"{""coordinates"": [-123.11680908365, 49.285928263599], ""type"": ""Point""}";HORNBY ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#124592
+"{""coordinates"": [-123.118374344949, 49.2848940326297], ""type"": ""Point""}";HORNBY ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#124595
+"{""coordinates"": [-123.120082749606, 49.283764507242], ""type"": ""Point""}";HORNBY ST AND W GEORGIA ST;https://app.vancouver.ca/vanmapmtc_net/#124600
+"{""coordinates"": [-123.121790620843, 49.2826344460375], ""type"": ""Point""}";HORNBY ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#124602
+"{""coordinates"": [-123.126568879711, 49.2794732853472], ""type"": ""Point""}";HORNBY ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#124608
+"{""coordinates"": [-123.131347348757, 49.2763113883038], ""type"": ""Point""}";HORNBY ST AND PACIFIC ST;https://app.vancouver.ca/vanmapmtc_net/#124616
+"{""coordinates"": [-123.132789146388, 49.2753567725181], ""type"": ""Point""}";HORNBY ST AND BEACH AV;https://app.vancouver.ca/vanmapmtc_net/#124617
+"{""coordinates"": [-123.140825913477, 49.2688218906294], ""type"": ""Point""}";FIR ST AND W 3RD AV;https://app.vancouver.ca/vanmapmtc_net/#124638
+"{""coordinates"": [-123.14043574567, 49.2558813731627], ""type"": ""Point""}";FIR ST AND MARPOLE AV;https://app.vancouver.ca/vanmapmtc_net/#124695
+"{""coordinates"": [-123.14155500284, 49.2474512009724], ""type"": ""Point""}";ALEXANDRA ST AND NANTON AV;https://app.vancouver.ca/vanmapmtc_net/#125717
+"{""coordinates"": [-123.114857239613, 49.2859499160184], ""type"": ""Point""}";HOWE ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#126590
+"{""coordinates"": [-123.115837996876, 49.2853004962439], ""type"": ""Point""}";HOWE ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#126592
+"{""coordinates"": [-123.117403666921, 49.284266005117], ""type"": ""Point""}";HOWE ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#126595
+"{""coordinates"": [-123.131819255001, 49.2747283919756], ""type"": ""Point""}";HOWE ST AND BEACH AV;https://app.vancouver.ca/vanmapmtc_net/#126617
+"{""coordinates"": [-123.113866257457, 49.2853072639548], ""type"": ""Point""}";GRANVILLE ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#130590
+"{""coordinates"": [-123.138557667246, 49.2635979352739], ""type"": ""Point""}";GRANVILLE ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#130650
+"{""coordinates"": [-123.138663639804, 49.260771807616], ""type"": ""Point""}";GRANVILLE ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#130670
+"{""coordinates"": [-123.139083718034, 49.2494135681774], ""type"": ""Point""}";GRANVILLE ST AND W KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#130710
+"{""coordinates"": [-123.139322475057, 49.2418687839528], ""type"": ""Point""}";GRANVILLE ST AND W 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#130730
+"{""coordinates"": [-123.139843254787, 49.2269658269465], ""type"": ""Point""}";GRANVILLE ST AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#130790
+"{""coordinates"": [-123.140217480936, 49.2173719123612], ""type"": ""Point""}";GRANVILLE ST AND W 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#130813
+"{""coordinates"": [-123.13799377058, 49.2693459275641], ""type"": ""Point""}";ANDERSON ST AND LAMEY'S MILL ROAD;https://app.vancouver.ca/vanmapmtc_net/#132639
+"{""coordinates"": [-123.111893817155, 49.2853148912162], ""type"": ""Point""}";SEYMOUR ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#134589
+"{""coordinates"": [-123.136096876184, 49.2635595479188], ""type"": ""Point""}";HEMLOCK ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#134650
+"{""coordinates"": [-123.136201212729, 49.2607329526508], ""type"": ""Point""}";HEMLOCK ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#134670
+"{""coordinates"": [-123.13630523657, 49.2579524298889], ""type"": ""Point""}";HEMLOCK ST AND W 15TH AV;https://app.vancouver.ca/vanmapmtc_net/#134690
+"{""coordinates"": [-123.112885317065, 49.283388994053], ""type"": ""Point""}";RICHARDS ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#138592
+"{""coordinates"": [-123.134383146296, 49.2085329196993], ""type"": ""Point""}";HUDSON ST AND W 70TH AV;https://app.vancouver.ca/vanmapmtc_net/#144830
+"{""coordinates"": [-123.134599238986, 49.2085361884688], ""type"": ""Point""}";HUDSON ST AND W 70TH AV;https://app.vancouver.ca/vanmapmtc_net/#144830
+"{""coordinates"": [-123.134795219299, 49.2030595264063], ""type"": ""Point""}";HUDSON ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#144840
+"{""coordinates"": [-123.110933053311, 49.2834093160189], ""type"": ""Point""}";HOMER ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#148590
+"{""coordinates"": [-123.118487605913, 49.278412207984], ""type"": ""Point""}";HOMER ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#148604
+"{""coordinates"": [-123.120080177795, 49.2773582254588], ""type"": ""Point""}";HOMER ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#148606
+"{""coordinates"": [-123.121672414514, 49.2763069569957], ""type"": ""Point""}";HOMER ST AND HELMCKEN ST;https://app.vancouver.ca/vanmapmtc_net/#148608
+"{""coordinates"": [-123.124860437078, 49.2741962701235], ""type"": ""Point""}";HOMER ST AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#148614
+"{""coordinates"": [-123.126493835695, 49.2659946350704], ""type"": ""Point""}";OAK ST AND W 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#150640
+"{""coordinates"": [-123.127336769503, 49.2544318006209], ""type"": ""Point""}";OAK ST AND DOUGLAS CRESCENT;https://app.vancouver.ca/vanmapmtc_net/#150694
+"{""coordinates"": [-123.127786186783, 49.2423781129381], ""type"": ""Point""}";OAK ST AND W 32ND AV;https://app.vancouver.ca/vanmapmtc_net/#150725
+"{""coordinates"": [-123.128074250468, 49.2339516500522], ""type"": ""Point""}";OAK ST AND W 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#150750
+"{""coordinates"": [-123.128590605796, 49.2192040297827], ""type"": ""Point""}";OAK ST AND W 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#150810
+"{""coordinates"": [-123.123692531944, 49.2734397338042], ""type"": ""Point""}";PACIFIC BOULEVARD AND DRAKE ST;https://app.vancouver.ca/vanmapmtc_net/#153614
+"{""coordinates"": [-123.112507515065, 49.2810978519512], ""type"": ""Point""}";HAMILTON ST AND DUNSMUIR ST;https://app.vancouver.ca/vanmapmtc_net/#156595
+"{""coordinates"": [-123.115921881611, 49.2788394606142], ""type"": ""Point""}";HAMILTON ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#156602
+"{""coordinates"": [-123.109183004686, 49.2833682557111], ""type"": ""Point""}";CAMBIE ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#157589
+"{""coordinates"": [-123.109546341935, 49.2825114085454], ""type"": ""Point""}";CAMBIE ST AND W HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#157590
+"{""coordinates"": [-123.109971586985, 49.2815099306036], ""type"": ""Point""}";CAMBIE ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#157592
+"{""coordinates"": [-123.114954833057, 49.2782090496452], ""type"": ""Point""}";CAMBIE ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#157602
+"{""coordinates"": [-123.116545251439, 49.2771559615139], ""type"": ""Point""}";CAMBIE ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#157604
+"{""coordinates"": [-123.118130804519, 49.2761045751117], ""type"": ""Point""}";CAMBIE ST AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#157606
+"{""coordinates"": [-123.119279551269, 49.2745179205505], ""type"": ""Point""}";CAMBIE ST AND PACIFIC BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#157616
+"{""coordinates"": [-123.121822588559, 49.2633302488798], ""type"": ""Point""}";WILLOW ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#159650
+"{""coordinates"": [-123.108455189135, 49.2812384331205], ""type"": ""Point""}";BEATTY ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#160592
+"{""coordinates"": [-123.113982012262, 49.2775807664718], ""type"": ""Point""}";BEATTY ST AND ROBSON ST;https://app.vancouver.ca/vanmapmtc_net/#160602
+"{""coordinates"": [-123.115576458846, 49.2765265698969], ""type"": ""Point""}";BEATTY ST AND SMITHE ST;https://app.vancouver.ca/vanmapmtc_net/#160604
+"{""coordinates"": [-123.154489030063, 49.2271500939085], ""type"": ""Point""}";EAST BOULEVARD AND W 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#160790
+"{""coordinates"": [-123.119976023784, 49.2604725092515], ""type"": ""Point""}";HEATHER ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#163670
+"{""coordinates"": [-123.115001457509, 49.274123729196], ""type"": ""Point""}";PACIFIC BOULEVARD AND NELSON ST;https://app.vancouver.ca/vanmapmtc_net/#165606
+"{""coordinates"": [-123.11760650286, 49.2604347701762], ""type"": ""Point""}";ASH ST AND W 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#165670
+"{""coordinates"": [-123.114761374344, 49.2648574722525], ""type"": ""Point""}";CAMBIE ST AND W 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#170646
+"{""coordinates"": [-123.114800533411, 49.2639538691488], ""type"": ""Point""}";CAMBIE ST AND W 8TH AV;https://app.vancouver.ca/vanmapmtc_net/#170648
+"{""coordinates"": [-123.114883421656, 49.2632184540345], ""type"": ""Point""}";CAMBIE ST AND W BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#170650
+"{""coordinates"": [-123.115560674219, 49.2451889969987], ""type"": ""Point""}";CAMBIE ST AND W 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#170718
+"{""coordinates"": [-123.114728599885, 49.2110547502908], ""type"": ""Point""}";YUKON ST AND SW MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#171830
+"{""coordinates"": [-123.106787990707, 49.282930185315], ""type"": ""Point""}";ABBOTT ST AND W CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#172589
+"{""coordinates"": [-123.107572708892, 49.2810781916617], ""type"": ""Point""}";ABBOTT ST AND W PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#172592
+"{""coordinates"": [-123.10767644433, 49.2771199127406], ""type"": ""Point""}";ABBOTT ST AND PACIFIC BOULEVARD;https://app.vancouver.ca/vanmapmtc_net/#172598
+"{""coordinates"": [-123.111510554895, 49.2682674312764], ""type"": ""Point""}";CROWE ST AND W 2ND AV;https://app.vancouver.ca/vanmapmtc_net/#172640
+"{""coordinates"": [-123.104271022601, 49.2832770958102], ""type"": ""Point""}";CARRALL ST AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#178580
+"{""coordinates"": [-123.104345439955, 49.2814731370873], ""type"": ""Point""}";CARRALL ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#178590
+"{""coordinates"": [-123.10438648859, 49.2804992959725], ""type"": ""Point""}";CARRALL ST AND E PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#178592
+"{""coordinates"": [-123.110255298579, 49.2068847374579], ""type"": ""Point""}";MANITOBA ST AND W KENT AV NORTH;https://app.vancouver.ca/vanmapmtc_net/#181837
+"{""coordinates"": [-123.106611522589, 49.2683237159703], ""type"": ""Point""}";MANITOBA ST AND W 3RD AV;https://app.vancouver.ca/vanmapmtc_net/#182641
+"{""coordinates"": [-123.105352721236, 49.2405747779955], ""type"": ""Point""}";ONTARIO ST AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#184730
+"{""coordinates"": [-123.105958619502, 49.2257502182967], ""type"": ""Point""}";ONTARIO ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#184790
+"{""coordinates"": [-123.106550648229, 49.2123159093601], ""type"": ""Point""}";ONTARIO ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#184830
+"{""coordinates"": [-123.102175307466, 49.2832385081316], ""type"": ""Point""}";COLUMBIA ST AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#186580
+"{""coordinates"": [-123.102124929359, 49.2777146286342], ""type"": ""Point""}";QUEBEC ST AND UNION ST;https://app.vancouver.ca/vanmapmtc_net/#186598
+"{""coordinates"": [-123.101921383082, 49.2749545207129], ""type"": ""Point""}";QUEBEC ST AND NATIONAL AV;https://app.vancouver.ca/vanmapmtc_net/#186608
+"{""coordinates"": [-123.102816331643, 49.2664465585129], ""type"": ""Point""}";QUEBEC ST AND E 5TH AV;https://app.vancouver.ca/vanmapmtc_net/#186644
+"{""coordinates"": [-123.099567130853, 49.2831894514361], ""type"": ""Point""}";MAIN ST AND POWELL ST;https://app.vancouver.ca/vanmapmtc_net/#190580
+"{""coordinates"": [-123.099689117535, 49.2803855182387], ""type"": ""Point""}";MAIN ST AND E PENDER ST;https://app.vancouver.ca/vanmapmtc_net/#190592
+"{""coordinates"": [-123.099812423274, 49.2776708765756], ""type"": ""Point""}";MAIN ST AND UNION ST;https://app.vancouver.ca/vanmapmtc_net/#190598
+"{""coordinates"": [-123.096831254733, 49.2767120738632], ""type"": ""Point""}";GORE AV AND PRIOR ST;https://app.vancouver.ca/vanmapmtc_net/#190600
+"{""coordinates"": [-123.099847452703, 49.2767663921058], ""type"": ""Point""}";MAIN ST AND GEORGIA VIADUCT;https://app.vancouver.ca/vanmapmtc_net/#190601
+"{""coordinates"": [-123.100028035364, 49.2727762969897], ""type"": ""Point""}";MAIN ST AND TERMINAL AV;https://app.vancouver.ca/vanmapmtc_net/#190630
+"{""coordinates"": [-123.100888231447, 49.2646021575408], ""type"": ""Point""}";MAIN ST AND E 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#190646
+"{""coordinates"": [-123.056601076643, 49.2621493236791], ""type"": ""Point""}";NANAIMO ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#270650
+"{""coordinates"": [-123.056608066337, 49.2584687591806], ""type"": ""Point""}";NANAIMO ST AND GRANDVIEW HWY NORTH;https://app.vancouver.ca/vanmapmtc_net/#270668
+"{""coordinates"": [-123.056634198346, 49.2506345575652], ""type"": ""Point""}";NANAIMO ST AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#270700
+"{""coordinates"": [-123.058719850332, 49.2397780997192], ""type"": ""Point""}";NANAIMO ST AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#270730
+"{""coordinates"": [-123.054750482495, 49.2248165231775], ""type"": ""Point""}";ELLIOTT ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#270790
+"{""coordinates"": [-123.055444187158, 49.2388946445126], ""type"": ""Point""}";CLARENDON ST AND E 34TH AV;https://app.vancouver.ca/vanmapmtc_net/#273733
+"{""coordinates"": [-123.051955770268, 49.2811414270776], ""type"": ""Point""}";PENTICTON ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#274590
+"{""coordinates"": [-123.054386429678, 49.2397526791681], ""type"": ""Point""}";SLOCAN ST AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#275730
+"{""coordinates"": [-123.054083031598, 49.2400341262837], ""type"": ""Point""}";SLOCAN ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#275770
+"{""coordinates"": [-123.044072385473, 49.2847770832227], ""type"": ""Point""}";RENFREW ST AND DUNDAS ST;https://app.vancouver.ca/vanmapmtc_net/#280580
+"{""coordinates"": [-123.044083799192, 49.2774543076315], ""type"": ""Point""}";RENFREW ST AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#280598
+"{""coordinates"": [-123.044215535953, 49.2694901082825], ""type"": ""Point""}";RENFREW ST AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#280630
+"{""coordinates"": [-123.044282313208, 49.2592048630897], ""type"": ""Point""}";RENFREW ST AND HEBB AV;https://app.vancouver.ca/vanmapmtc_net/#280668
+"{""coordinates"": [-123.044332926774, 49.2543918769291], ""type"": ""Point""}";RENFREW ST AND E 17TH AV;https://app.vancouver.ca/vanmapmtc_net/#280691
+"{""coordinates"": [-123.044332101059, 49.2544365382839], ""type"": ""Point""}";RENFREW ST AND E 17TH AV;https://app.vancouver.ca/vanmapmtc_net/#280691
+"{""coordinates"": [-123.044197202172, 49.2506240540315], ""type"": ""Point""}";BOYD DIVERSION AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#280700
+"{""coordinates"": [-123.04884462595, 49.2376025874671], ""type"": ""Point""}";EARLES ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#280770
+"{""coordinates"": [-123.04877457652, 49.2327860294055], ""type"": ""Point""}";EARLES ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#281750
+"{""coordinates"": [-123.04884462595, 49.2376025874671], ""type"": ""Point""}";EARLES ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#281770
+"{""coordinates"": [-123.045686451957, 49.2247362035302], ""type"": ""Point""}";KILLARNEY ST AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#284790
+"{""coordinates"": [-123.030948664597, 49.2811254418331], ""type"": ""Point""}";CASSIAR ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#300590
+"{""coordinates"": [-123.033771994207, 49.2581502388647], ""type"": ""Point""}";RUPERT ST AND GRANDVIEW HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#300670
+"{""coordinates"": [-123.043092267524, 49.2329673435634], ""type"": ""Point""}";RUPERT ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#300750
+"{""coordinates"": [-123.043121342832, 49.2292944262341], ""type"": ""Point""}";RUPERT ST AND E 45TH AV;https://app.vancouver.ca/vanmapmtc_net/#300758
+"{""coordinates"": [-123.042316007773, 49.2359429120713], ""type"": ""Point""}";RUPERT ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#300770
+"{""coordinates"": [-123.041290659406, 49.2201802158219], ""type"": ""Point""}";KERR ST AND E 54TH AV;https://app.vancouver.ca/vanmapmtc_net/#300810
+"{""coordinates"": [-123.03031496339, 49.2581386036666], ""type"": ""Point""}";NATAL ST AND GRANDVIEW HIGHWAY;https://app.vancouver.ca/vanmapmtc_net/#303670
+"{""coordinates"": [-123.025848210482, 49.244516131493], ""type"": ""Point""}";JOYCE ST AND E 29TH AV;https://app.vancouver.ca/vanmapmtc_net/#306710
+"{""coordinates"": [-123.031849547326, 49.2382563910572], ""type"": ""Point""}";JOYCE ST AND VANNESS AV;https://app.vancouver.ca/vanmapmtc_net/#306718
+"{""coordinates"": [-123.031282306602, 49.2320426257134], ""type"": ""Point""}";TYNE ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#312770
+"{""coordinates"": [-123.03236651056, 49.2200996831653], ""type"": ""Point""}";CHAMPLAIN CRESCENT AND E 54TH AV;https://app.vancouver.ca/vanmapmtc_net/#312810
+"{""coordinates"": [-123.02372983225, 49.2506325217948], ""type"": ""Point""}";BOUNDARY ROAD AND E 22ND AV;https://app.vancouver.ca/vanmapmtc_net/#320700
+"{""coordinates"": [-123.023642267918, 49.2349143055176], ""type"": ""Point""}";BOUNDARY ROAD AND VANNESS AV;https://app.vancouver.ca/vanmapmtc_net/#320718
+"{""coordinates"": [-123.023584716926, 49.229228438622], ""type"": ""Point""}";BOUNDARY ROAD AND E 45TH AV;https://app.vancouver.ca/vanmapmtc_net/#320758
+"{""coordinates"": [-123.114449278699, 49.28235470425], ""type"": ""Point""}";DUNSMUIR ST AND RICHARDS ST;https://app.vancouver.ca/vanmapmtc_net/#595138
+"{""coordinates"": [-123.125916241752, 49.2867085005403], ""type"": ""Point""}";ALBERNI ST AND BUTE ST;https://app.vancouver.ca/vanmapmtc_net/#601118
+"{""coordinates"": [-123.131815475255, 49.2570874467185], ""type"": ""Point""}";WOLFE AV AND W 16TH AV;https://app.vancouver.ca/vanmapmtc_net/#694146
+"{""coordinates"": [-123.072209829998, 49.2484367149269], ""type"": ""Point""}";KINGSWAY AND E KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#770236
+"{""coordinates"": [-123.100959552457, 49.2629134523986], ""type"": ""Point""}";MAIN ST AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#190650
+"{""coordinates"": [-123.101074969417, 49.260201056926], ""type"": ""Point""}";MAIN ST AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#190670
+"{""coordinates"": [-123.101037187037, 49.2487782892074], ""type"": ""Point""}";MAIN ST AND E KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#190710
+"{""coordinates"": [-123.101631912035, 49.2372443437895], ""type"": ""Point""}";MAIN ST AND E 37TH AV;https://app.vancouver.ca/vanmapmtc_net/#190739
+"{""coordinates"": [-123.101894777945, 49.218457765887], ""type"": ""Point""}";MAIN ST AND E 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#190810
+"{""coordinates"": [-123.097473671407, 49.2812946937316], ""type"": ""Point""}";GORE AV AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#192590
+"{""coordinates"": [-123.09721105625, 49.2794350069795], ""type"": ""Point""}";GORE AV AND KEEFER ST;https://app.vancouver.ca/vanmapmtc_net/#192594
+"{""coordinates"": [-123.096957757964, 49.2776184185664], ""type"": ""Point""}";GORE AV AND UNION ST;https://app.vancouver.ca/vanmapmtc_net/#192598
+"{""coordinates"": [-123.098663348271, 49.2502381190433], ""type"": ""Point""}";SOPHIA ST AND E 23RD AV;https://app.vancouver.ca/vanmapmtc_net/#194706
+"{""coordinates"": [-123.096558461299, 49.2598509724826], ""type"": ""Point""}";KINGSWAY AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#196670
+"{""coordinates"": [-123.089490081969, 49.2820979058635], ""type"": ""Point""}";HEATLEY AV AND E CORDOVA ST;https://app.vancouver.ca/vanmapmtc_net/#205589
+"{""coordinates"": [-123.089731094977, 49.2765787071184], ""type"": ""Point""}";HEATLEY AV AND PRIOR ST;https://app.vancouver.ca/vanmapmtc_net/#205600
+"{""coordinates"": [-123.090157116426, 49.248642648432], ""type"": ""Point""}";FRASER ST AND E KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#210710
+"{""coordinates"": [-123.089854052781, 49.2567175686813], ""type"": ""Point""}";FRASER ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#210770
+"{""coordinates"": [-123.091001801248, 49.2165243328723], ""type"": ""Point""}";FRASER ST AND E 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#210813
+"{""coordinates"": [-123.086662669348, 49.2662191951908], ""type"": ""Point""}";FOLEY ST AND GREAT NORTHERN WAY;https://app.vancouver.ca/vanmapmtc_net/#213640
+"{""coordinates"": [-123.081367170259, 49.2624120701809], ""type"": ""Point""}";GLEN DRIVE AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#222650
+"{""coordinates"": [-123.077995943043, 49.2511781474443], ""type"": ""Point""}";CLARK DRIVE AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#228770
+"{""coordinates"": [-123.077445264925, 49.265185080778], ""type"": ""Point""}";CLARK DRIVE AND E 6TH AV;https://app.vancouver.ca/vanmapmtc_net/#230640
+"{""coordinates"": [-123.077464428569, 49.2642353897898], ""type"": ""Point""}";CLARK DRIVE AND E 7TH AV;https://app.vancouver.ca/vanmapmtc_net/#230646
+"{""coordinates"": [-123.077500634657, 49.2623811955454], ""type"": ""Point""}";CLARK DRIVE AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#230650
+"{""coordinates"": [-123.077555176815, 49.2596221514914], ""type"": ""Point""}";CLARK DRIVE AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#230670
+"{""coordinates"": [-123.075867947808, 49.256603593034], ""type"": ""Point""}";KNIGHT ST AND E 15TH AV;https://app.vancouver.ca/vanmapmtc_net/#230687
+"{""coordinates"": [-123.07615220956, 49.2484807866779], ""type"": ""Point""}";KNIGHT ST AND E KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#230710
+"{""coordinates"": [-123.077030994408, 49.2327145741551], ""type"": ""Point""}";KNIGHT ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#230750
+"{""coordinates"": [-123.076098677641, 49.2501131408778], ""type"": ""Point""}";KNIGHT ST AND KINGSWAY;https://app.vancouver.ca/vanmapmtc_net/#230770
+"{""coordinates"": [-123.077025231938, 49.2181272233405], ""type"": ""Point""}";KNIGHT ST AND E 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#230810
+"{""coordinates"": [-123.074272021298, 49.2326840696662], ""type"": ""Point""}";DUMFRIES ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#233750
+"{""coordinates"": [-123.072209829998, 49.2484367149269], ""type"": ""Point""}";KINGSWAY AND E KING EDWARD AV;https://app.vancouver.ca/vanmapmtc_net/#236710
+"{""coordinates"": [-123.071997827521, 49.2180973830187], ""type"": ""Point""}";ARGYLE ST AND E 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#237810
+"{""coordinates"": [-123.072020468453, 49.2162872007871], ""type"": ""Point""}";ARGYLE ST AND E 59TH AV;https://app.vancouver.ca/vanmapmtc_net/#237814
+"{""coordinates"": [-123.071301338005, 49.2110145197325], ""type"": ""Point""}";ARGYLE ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#237830
+"{""coordinates"": [-123.070995738368, 49.2180917027062], ""type"": ""Point""}";ARGYLE DRIVE AND E 57TH AV;https://app.vancouver.ca/vanmapmtc_net/#239810
+"{""coordinates"": [-123.071301338005, 49.2110145197325], ""type"": ""Point""}";ARGYLE ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#241830
+"{""coordinates"": [-123.072099508606, 49.2110314750099], ""type"": ""Point""}";ARGYLE ST AND SE MARINE DRIVE;https://app.vancouver.ca/vanmapmtc_net/#241830
+"{""coordinates"": [-123.068729965669, 49.2326199053694], ""type"": ""Point""}";COMMERCIAL ST AND E 41ST AV;https://app.vancouver.ca/vanmapmtc_net/#243750
+"{""coordinates"": [-123.07006468427, 49.2775675007046], ""type"": ""Point""}";COMMERCIAL DIV NORTH AND ADANAC ST;https://app.vancouver.ca/vanmapmtc_net/#250598
+"{""coordinates"": [-123.069494063126, 49.2766487036703], ""type"": ""Point""}";COMMERCIAL DRIVE AND VENABLES ST;https://app.vancouver.ca/vanmapmtc_net/#250600
+"{""coordinates"": [-123.069621664266, 49.2695996340758], ""type"": ""Point""}";COMMERCIAL DRIVE AND E 1ST AV;https://app.vancouver.ca/vanmapmtc_net/#250630
+"{""coordinates"": [-123.069736090032, 49.2637179331288], ""type"": ""Point""}";COMMERCIAL DRIVE AND GRANDVIEW HWY NORTH;https://app.vancouver.ca/vanmapmtc_net/#250645
+"{""coordinates"": [-123.069762688147, 49.2623194541699], ""type"": ""Point""}";COMMERCIAL DRIVE AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#250650
+"{""coordinates"": [-123.069850876213, 49.25775013691], ""type"": ""Point""}";COMMERCIAL DRIVE AND E 14TH AV;https://app.vancouver.ca/vanmapmtc_net/#250684
+"{""coordinates"": [-123.069792186511, 49.2563584782704], ""type"": ""Point""}";COMMERCIAL DRIVE AND E 15TH AV;https://app.vancouver.ca/vanmapmtc_net/#250685
+"{""coordinates"": [-123.066126797537, 49.2528805114762], ""type"": ""Point""}";VICTORIA DRIVE AND VICTORIA DIVERSION;https://app.vancouver.ca/vanmapmtc_net/#250695
+"{""coordinates"": [-123.065329981613, 49.2400288483197], ""type"": ""Point""}";VICTORIA DRIVE AND E 33RD AV;https://app.vancouver.ca/vanmapmtc_net/#250730
+"{""coordinates"": [-123.065619272638, 49.2294720563374], ""type"": ""Point""}";VICTORIA DRIVE AND E 45TH AV;https://app.vancouver.ca/vanmapmtc_net/#250758
+"{""coordinates"": [-123.065736371616, 49.2251811214509], ""type"": ""Point""}";VICTORIA DRIVE AND E 49TH AV;https://app.vancouver.ca/vanmapmtc_net/#250790
+"{""coordinates"": [-123.065870706521, 49.2203038152224], ""type"": ""Point""}";VICTORIA DRIVE AND E 54TH AV;https://app.vancouver.ca/vanmapmtc_net/#250810
+"{""coordinates"": [-123.066153424179, 49.2072010837567], ""type"": ""Point""}";VICTORIA DRIVE AND E KENT AV SOUTH;https://app.vancouver.ca/vanmapmtc_net/#250839
+"{""coordinates"": [-123.06557416356, 49.2811769049782], ""type"": ""Point""}";VICTORIA DRIVE AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#253590
+"{""coordinates"": [-123.065618841004, 49.2766306450376], ""type"": ""Point""}";VICTORIA DRIVE AND VENABLES ST;https://app.vancouver.ca/vanmapmtc_net/#253600
+"{""coordinates"": [-123.065894566672, 49.262290155576], ""type"": ""Point""}";VICTORIA DRIVE AND E BROADWAY;https://app.vancouver.ca/vanmapmtc_net/#253650
+"{""coordinates"": [-123.065946999902, 49.2595301994783], ""type"": ""Point""}";VICTORIA DRIVE AND E 12TH AV;https://app.vancouver.ca/vanmapmtc_net/#253670
+"{""coordinates"": [-123.056499562273, 49.288712054032], ""type"": ""Point""}";N NANAIMO ST AND MCGILL ST;https://app.vancouver.ca/vanmapmtc_net/#270570
+"{""coordinates"": [-123.05655071446, 49.2811460997902], ""type"": ""Point""}";NANAIMO ST AND E HASTINGS ST;https://app.vancouver.ca/vanmapmtc_net/#270590
