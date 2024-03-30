@@ -1,7 +1,7 @@
 # Comprehensive Traffic Data Scraper for the City of Vancouver
 
 ## Project Overview
-This project consists of a comprehensive scraper designed to download traffic count data, including date, weather, vehicle, pedestrian, and bicycle volumes during peak hours (AM, MD, and PM), from the City of Vancouver's website. The data spans from 1989 to 2022 and encompasses various report types (htm, xlsx, and pdf). This effort aimed to standardize the analysis across all reports, defining AM period from 6 AM to 9 AM, MD from 9 AM to 3 PM, and PM from 4 PM to 8 PM. The project was executed in accordance with the City of Vancouver's Open Data License.
+This project consists of a comprehensive scraper designed to download intersection traffic movement count data, including date, weather, vehicle, pedestrian, and bicycle volumes during peak hours (AM, MD, and PM), from the City of Vancouver's website. The data spans from 1989 to 2022 and encompasses various report types (htm, xlsx, and pdf). This effort aimed to standardize the analysis across all reports, defining AM period from 6 AM to 9 AM, MD from 9 AM to 3 PM, and PM from 4 PM to 8 PM. The project was executed in accordance with the City of Vancouver's Open Data License.
 
 The versatility of the scraper allows for easy modification, enabling researchers to tailor the data extraction process to meet the specific needs of their studies. Whether for predicting traffic patterns, analyzing pedestrian flows, or planning urban infrastructure, the data procured through this tool holds the potential to significantly advance our understanding of urban environments.
 
