@@ -9,7 +9,12 @@ In essence, this scraper is more than just a coding project; it's a bridge betwe
 
 ### Case Study
 The intersection_match_n_cluster.ipynb notebook demonstrates a focused analysis on matching the intersection names using `fuzzywuzzy`, geocoding them using a public API, and clustering the TMC counts using `DBSCAN`. Created with the intent to support open data initiatives and machine learning in urban planning, this notebook is shared publicly, encouraging the use of the prepared data to derive actionable insights for urban development and traffic management.
+
 The exported data from this notebook is visualized via an interesting Tableau dashboard excluding a few poorly geo coded intersections. 
+
+As a simple observation, I have analyzed traffic data from 2019 to identify intersections suitable for conversion into pedestrian-and-bike-only zones. Focusing on TMC counts with low vehicle volumes (bottom 20th percentile) and high pedestrian and bike activity (top 80th percentile), I have mapped the TMC counts that meet this criteria
+
+![Active Transportation Intersections](data/viz/80_20_viz.png)
 
 ## Getting Started
 
