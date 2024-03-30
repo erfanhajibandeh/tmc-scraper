@@ -8,7 +8,8 @@ The versatility of the scraper allows for easy modification, enabling researcher
 In essence, this scraper is more than just a coding project; it's a bridge between open data and the transformative insights machine learning can offer in the area of transportation engineering
 
 ### Case Study
-TBD
+The intersection_match_n_cluster.ipynb notebook demonstrates a focused analysis on matching the intersection names using `fuzzywuzzy`, geocoding them using a public API, and clustering the TMC counts using `DBSCAN`. Created with the intent to support open data initiatives and machine learning in urban planning, this notebook is shared publicly, encouraging the use of the prepared data to derive actionable insights for urban development and traffic management.
+The exported data from this notebook is visualized via an interesting Tableau dashboard excluding a few poorly geo coded intersections. 
 
 ## Getting Started
 
