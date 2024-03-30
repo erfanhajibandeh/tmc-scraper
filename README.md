@@ -12,6 +12,8 @@ The intersection_match_n_cluster.ipynb notebook demonstrates a focused analysis 
 
 The exported data from this notebook is visualized via an interesting Tableau dashboard excluding a few poorly geo coded intersections. 
 
+https://public.tableau.com/app/profile/erfan.hajibandeh/viz/CityOfVancouverTMCs1989-2022/MapReport?publish=yes
+
 As a simple observation, I have analyzed traffic data from 2019 to identify intersections suitable for conversion into pedestrian-and-bike-only zones. Focusing on TMC counts with low vehicle volumes (bottom 20th percentile) and high pedestrian and bike activity (top 80th percentile), I have mapped the TMC counts that meet this criteria
 
 ![Active Transportation Intersections](data/viz/80_20_viz.png)
